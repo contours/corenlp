@@ -25,16 +25,15 @@ This script will run the pipeline on all the files listed in
 
 ## Pipeline configuration
 
-The annotators added to the pipeline are set in `pipeline.sh`:
+The following options can be configured in `config.props`:
 
-```
-ANNS="tokenize,cleanxml,ssplit,speaker,pos,lemma,ner,parse,dcoref"
-
-```
-
-The `config.props` file tells CoreNLP where to find the `speaker`
-annotator, and to expect input that is already sentence-tokenized
-(`ssplit.eolonly = true`).
+* `threads` number of cores to use
+* `filelist` list of input files
+* `customAnnotatorClass.speaker` name of the class implementing the `speaker` annotator
+* `annotators` comma-separated list of annotators to include in the pipeline
+* `ssplit.eolonly` expect input that is already sentence-tokenized
+* `outputDirectory` directory to put annotated documents in
+* `replaceExtension` name output files like `[document id].xml`
 
 ## Input files
 
