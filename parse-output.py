@@ -67,8 +67,10 @@ class Parser():
                                          int(elem[0].find('start').text),
                                          int(elem[0].find('end').text)) },
                         'mentions': frozenset(
-                            [ int(o.text) for o in
-                              elem.findall('./mention/sentence') ]) })
+                            [ (int(m.find('sentence').text),
+                               m.find('text').text) for m in
+                              elem.findall('./mention') ])
+                    })
 
             root.clear()
            
@@ -86,8 +88,8 @@ class Parser():
             nes = self.named_entities(*c['representative']['location'])
             if len(nes) == 0: continue
             yield (c['representative']['text'], nes, 
-                   [ (i, self.sentences[i-1]) 
-                     for i in sorted(c['mentions']) ])
+                   [ (i, text, self.sentences[i-1]) 
+                     for i, text in sorted(c['mentions']) ])
 
 if __name__ == '__main__':
     p = Parser(sys.argv[1])
@@ -95,5 +97,5 @@ if __name__ == '__main__':
         print
         print '"%s"' % representative
         print ', '.join([ '%s [%s]' % (o['ne'], o['type']) for o in entities ])
-        for i, sentence in mentions:
-            print '%s: %s' % (str(i).rjust(3), sentence[:75])
+        for i, text, sentence in mentions:
+            print '%s: [%s] %s' % (str(i).rjust(3), text, sentence)
