@@ -832,7 +832,7 @@
             <CharacterOffsetBegin>217</CharacterOffsetBegin>
             <CharacterOffsetEnd>225</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>ORGANIZATION</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="5">
@@ -886,7 +886,7 @@
             <CharacterOffsetBegin>246</CharacterOffsetBegin>
             <CharacterOffsetEnd>254</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>ORGANIZATION</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="11">
@@ -2509,7 +2509,7 @@
             <CharacterOffsetBegin>633</CharacterOffsetBegin>
             <CharacterOffsetEnd>641</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>ORGANIZATION</NER>
             <Speaker>MALINDA MAYNOR</Speaker>
           </token>
           <token id="12">
@@ -3172,7 +3172,7 @@
             <CharacterOffsetBegin>780</CharacterOffsetBegin>
             <CharacterOffsetEnd>788</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>ORGANIZATION</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="10">
@@ -3631,15 +3631,15 @@
             <dependent idx="37">credit</dependent>
           </dep>
           <dep type="mark">
-            <governor idx="43">judge</governor>
+            <governor idx="40">became</governor>
             <dependent idx="38">because</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="43">judge</governor>
+            <governor idx="40">became</governor>
             <dependent idx="39">he</dependent>
           </dep>
-          <dep type="cop">
-            <governor idx="43">judge</governor>
+          <dep type="dep">
+            <governor idx="37">credit</governor>
             <dependent idx="40">became</dependent>
           </dep>
           <dep type="poss">
@@ -3650,8 +3650,8 @@
             <governor idx="43">judge</governor>
             <dependent idx="42">first</dependent>
           </dep>
-          <dep type="dep">
-            <governor idx="37">credit</governor>
+          <dep type="xcomp">
+            <governor idx="40">became</governor>
             <dependent idx="43">judge</dependent>
           </dep>
         </dependencies>
@@ -3765,15 +3765,15 @@
             <dependent idx="37">credit</dependent>
           </dep>
           <dep type="mark">
-            <governor idx="43">judge</governor>
+            <governor idx="40">became</governor>
             <dependent idx="38">because</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="43">judge</governor>
+            <governor idx="40">became</governor>
             <dependent idx="39">he</dependent>
           </dep>
-          <dep type="cop">
-            <governor idx="43">judge</governor>
+          <dep type="dep">
+            <governor idx="37">credit</governor>
             <dependent idx="40">became</dependent>
           </dep>
           <dep type="poss">
@@ -3784,8 +3784,8 @@
             <governor idx="43">judge</governor>
             <dependent idx="42">first</dependent>
           </dep>
-          <dep type="dep">
-            <governor idx="37">credit</governor>
+          <dep type="xcomp">
+            <governor idx="40">became</governor>
             <dependent idx="43">judge</dependent>
           </dep>
         </dependencies>
@@ -3899,15 +3899,15 @@
             <dependent idx="37">credit</dependent>
           </dep>
           <dep type="mark">
-            <governor idx="43">judge</governor>
+            <governor idx="40">became</governor>
             <dependent idx="38">because</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="43">judge</governor>
+            <governor idx="40">became</governor>
             <dependent idx="39">he</dependent>
           </dep>
-          <dep type="cop">
-            <governor idx="43">judge</governor>
+          <dep type="dep">
+            <governor idx="37">credit</governor>
             <dependent idx="40">became</dependent>
           </dep>
           <dep type="poss">
@@ -3918,8 +3918,8 @@
             <governor idx="43">judge</governor>
             <dependent idx="42">first</dependent>
           </dep>
-          <dep type="dep">
-            <governor idx="37">credit</governor>
+          <dep type="xcomp">
+            <governor idx="40">became</governor>
             <dependent idx="43">judge</dependent>
           </dep>
         </dependencies>
@@ -3996,7 +3996,7 @@
             <CharacterOffsetBegin>984</CharacterOffsetBegin>
             <CharacterOffsetEnd>992</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>PERSON</NER>
+            <NER>LOCATION</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="9">
@@ -4014,7 +4014,7 @@
             <CharacterOffsetBegin>997</CharacterOffsetBegin>
             <CharacterOffsetEnd>1005</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>ORGANIZATION</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="11">
@@ -4361,7 +4361,7 @@
             <CharacterOffsetBegin>1077</CharacterOffsetBegin>
             <CharacterOffsetEnd>1085</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>ORGANIZATION</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="11">
@@ -5380,7 +5380,7 @@
             <CharacterOffsetBegin>1322</CharacterOffsetBegin>
             <CharacterOffsetEnd>1328</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>LOCATION</NER>
+            <NER>PERSON</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="11">
@@ -6532,19 +6532,19 @@
             <dependent idx="7">appointed</dependent>
           </dep>
           <dep type="mark">
-            <governor idx="4">judge</governor>
+            <governor idx="3">became</governor>
             <dependent idx="1">After</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="4">judge</governor>
+            <governor idx="3">became</governor>
             <dependent idx="2">he</dependent>
-          </dep>
-          <dep type="cop">
-            <governor idx="4">judge</governor>
-            <dependent idx="3">became</dependent>
           </dep>
           <dep type="advcl">
             <governor idx="7">appointed</governor>
+            <dependent idx="3">became</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="3">became</governor>
             <dependent idx="4">judge</dependent>
           </dep>
           <dep type="nsubj">
@@ -6582,19 +6582,19 @@
             <dependent idx="7">appointed</dependent>
           </dep>
           <dep type="mark">
-            <governor idx="4">judge</governor>
+            <governor idx="3">became</governor>
             <dependent idx="1">After</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="4">judge</governor>
+            <governor idx="3">became</governor>
             <dependent idx="2">he</dependent>
-          </dep>
-          <dep type="cop">
-            <governor idx="4">judge</governor>
-            <dependent idx="3">became</dependent>
           </dep>
           <dep type="advcl">
             <governor idx="7">appointed</governor>
+            <dependent idx="3">became</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="3">became</governor>
             <dependent idx="4">judge</dependent>
           </dep>
           <dep type="nsubj">
@@ -6628,19 +6628,19 @@
             <dependent idx="7">appointed</dependent>
           </dep>
           <dep type="mark">
-            <governor idx="4">judge</governor>
+            <governor idx="3">became</governor>
             <dependent idx="1">After</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="4">judge</governor>
+            <governor idx="3">became</governor>
             <dependent idx="2">he</dependent>
-          </dep>
-          <dep type="cop">
-            <governor idx="4">judge</governor>
-            <dependent idx="3">became</dependent>
           </dep>
           <dep type="advcl">
             <governor idx="7">appointed</governor>
+            <dependent idx="3">became</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="3">became</governor>
             <dependent idx="4">judge</dependent>
           </dep>
           <dep type="nsubj">
@@ -7094,7 +7094,7 @@
             <CharacterOffsetBegin>1752</CharacterOffsetBegin>
             <CharacterOffsetEnd>1757</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>PERSON</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="14">
@@ -7103,7 +7103,7 @@
             <CharacterOffsetBegin>1758</CharacterOffsetBegin>
             <CharacterOffsetEnd>1763</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>PERSON</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="15">
@@ -7314,7 +7314,7 @@
             <Speaker>JAMES MOORE</Speaker>
           </token>
         </tokens>
-        <parse>(ROOT (S (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB remember) (ADVP (RB just))))) (, ,) (S (NP (PRP I)) (VP (VBP believe) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (NP (CD two) (NNS terms)) (SBAR (S (S (S (NP (NNP Uncle) (NNP Early)) (VP (VBD served))) (, ,) (CC and) (S (RB then) (NP (PRP he)) (VP (VBD gave) (NP (PRP it)) (PRT (RP up))))) (CC and) (S (NP (NNP Mr.) (NNP Lacy)) (VP (VBD became) (NP (NN judge)))))))))))) (CC and) (S (NP (PRP he)) (VP (VBD ran) (ADJP (RB unopposed) (RB as) (JJ long)) (SBAR (IN as) (S (NP (PRP he)) (VP (VBD served)))))) (. .))) </parse>
+        <parse>(ROOT (S (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB remember) (ADVP (RB just))))) (, ,) (S (NP (PRP I)) (VP (VBP believe) (SBAR (S (NP (PRP it)) (VP (VBD was) (NP (NP (CD two) (NNS terms)) (SBAR (S (S (S (NP (NNP Uncle) (NNP Early)) (VP (VBD served))) (, ,) (CC and) (RB then) (S (NP (PRP he)) (VP (VBD gave) (NP (PRP it)) (PRT (RP up))))) (CC and) (S (NP (NNP Mr.) (NNP Lacy)) (VP (VBD became) (NP (NN judge)))))))))))) (CC and) (S (NP (PRP he)) (VP (VBD ran) (ADJP (RB unopposed) (RB as) (JJ long)) (SBAR (IN as) (S (NP (PRP he)) (VP (VBD served)))))) (. .))) </parse>
         <dependencies type="basic-dependencies">
           <dep type="root">
             <governor idx="0">ROOT</governor>
@@ -7405,15 +7405,15 @@
             <dependent idx="24">Mr.</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="27">judge</governor>
+            <governor idx="26">became</governor>
             <dependent idx="25">Lacy</dependent>
-          </dep>
-          <dep type="cop">
-            <governor idx="27">judge</governor>
-            <dependent idx="26">became</dependent>
           </dep>
           <dep type="conj">
             <governor idx="15">served</governor>
+            <dependent idx="26">became</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="26">became</governor>
             <dependent idx="27">judge</dependent>
           </dep>
           <dep type="cc">
@@ -7535,15 +7535,15 @@
             <dependent idx="24">Mr.</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="27">judge</governor>
+            <governor idx="26">became</governor>
             <dependent idx="25">Lacy</dependent>
-          </dep>
-          <dep type="cop">
-            <governor idx="27">judge</governor>
-            <dependent idx="26">became</dependent>
           </dep>
           <dep type="conj_and">
             <governor idx="15">served</governor>
+            <dependent idx="26">became</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="26">became</governor>
             <dependent idx="27">judge</dependent>
           </dep>
           <dep type="nsubj">
@@ -7665,19 +7665,19 @@
             <dependent idx="24">Mr.</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="27">judge</governor>
+            <governor idx="26">became</governor>
             <dependent idx="25">Lacy</dependent>
-          </dep>
-          <dep type="cop">
-            <governor idx="27">judge</governor>
-            <dependent idx="26">became</dependent>
           </dep>
           <dep type="rcmod">
             <governor idx="12">terms</governor>
-            <dependent idx="27">judge</dependent>
+            <dependent idx="26">became</dependent>
           </dep>
           <dep type="conj_and">
             <governor idx="15">served</governor>
+            <dependent idx="26">became</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="26">became</governor>
             <dependent idx="27">judge</dependent>
           </dep>
           <dep type="nsubj">
@@ -11971,7 +11971,7 @@
             <CharacterOffsetBegin>2881</CharacterOffsetBegin>
             <CharacterOffsetEnd>2889</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>ORGANIZATION</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="6">
@@ -12826,7 +12826,7 @@
             <CharacterOffsetBegin>3125</CharacterOffsetBegin>
             <CharacterOffsetEnd>3133</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>ORGANIZATION</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="12">
@@ -14476,7 +14476,7 @@
             <Speaker>JAMES MOORE</Speaker>
           </token>
         </tokens>
-        <parse>(ROOT (S (NP (PRP He)) (VP (VBZ says)) (PRN (, ,) (SINV (MD will) (NP (PRP you)) (VP (VB drive) (PP (IN for) (NP (PRP me)))))) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP do) (RB n't) (VP (VB drive) (PP (CC but) (PP (IN for) (NP (NP (NP (CD two) (CC or) (CD three)) (NNS months)) (SBAR (WHNP (WDT which)) (S (NP (PRP I)) (VP (VBD agreed) (PP (TO to)))))))))))) (. .))) </parse>
+        <parse>(ROOT (S (NP (PRP He)) (VP (VBZ says)) (PRN (, ,) (SINV (MD will) (NP (PRP you)) (VP (VB drive) (PP (IN for) (NP (PRP me)))))) (SBAR (IN if) (S (NP (PRP you)) (VP (VBP do) (RB n't) (VP (VB drive) (PP (CC but) (PP (IN for) (NP (NP (CD two) (CC or) (CD three) (NNS months)) (SBAR (WHNP (WDT which)) (S (NP (PRP I)) (VP (VBD agreed) (PP (TO to)))))))))))) (. .))) </parse>
         <dependencies type="basic-dependencies">
           <dep type="root">
             <governor idx="0">ROOT</governor>
@@ -14969,7 +14969,7 @@
             <governor idx="16">had</governor>
             <dependent idx="15">'d</dependent>
           </dep>
-          <dep type="dep">
+          <dep type="ccomp">
             <governor idx="12">told</governor>
             <dependent idx="16">had</dependent>
           </dep>
@@ -15035,7 +15035,7 @@
             <governor idx="16">had</governor>
             <dependent idx="15">'d</dependent>
           </dep>
-          <dep type="dep">
+          <dep type="ccomp">
             <governor idx="12">told</governor>
             <dependent idx="16">had</dependent>
           </dep>
@@ -15105,7 +15105,7 @@
             <governor idx="16">had</governor>
             <dependent idx="15">'d</dependent>
           </dep>
-          <dep type="dep">
+          <dep type="ccomp">
             <governor idx="12">told</governor>
             <dependent idx="16">had</dependent>
           </dep>
@@ -15934,26 +15934,26 @@
         <dependencies type="basic-dependencies">
           <dep type="root">
             <governor idx="0">ROOT</governor>
-            <dependent idx="5">violent</dependent>
+            <dependent idx="4">became</dependent>
           </dep>
           <dep type="cc">
-            <governor idx="5">violent</governor>
+            <governor idx="4">became</governor>
             <dependent idx="1">But</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="5">violent</governor>
+            <governor idx="4">became</governor>
             <dependent idx="2">it</dependent>
           </dep>
           <dep type="advmod">
-            <governor idx="5">violent</governor>
+            <governor idx="4">became</governor>
             <dependent idx="3">almost</dependent>
           </dep>
-          <dep type="cop">
-            <governor idx="5">violent</governor>
-            <dependent idx="4">became</dependent>
+          <dep type="acomp">
+            <governor idx="4">became</governor>
+            <dependent idx="5">violent</dependent>
           </dep>
           <dep type="prep">
-            <governor idx="5">violent</governor>
+            <governor idx="4">became</governor>
             <dependent idx="6">at</dependent>
           </dep>
           <dep type="det">
@@ -15988,30 +15988,30 @@
         <dependencies type="collapsed-dependencies">
           <dep type="root">
             <governor idx="0">ROOT</governor>
-            <dependent idx="5">violent</dependent>
+            <dependent idx="4">became</dependent>
           </dep>
           <dep type="cc">
-            <governor idx="5">violent</governor>
+            <governor idx="4">became</governor>
             <dependent idx="1">But</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="5">violent</governor>
+            <governor idx="4">became</governor>
             <dependent idx="2">it</dependent>
           </dep>
           <dep type="advmod">
-            <governor idx="5">violent</governor>
+            <governor idx="4">became</governor>
             <dependent idx="3">almost</dependent>
           </dep>
-          <dep type="cop">
-            <governor idx="5">violent</governor>
-            <dependent idx="4">became</dependent>
+          <dep type="acomp">
+            <governor idx="4">became</governor>
+            <dependent idx="5">violent</dependent>
           </dep>
           <dep type="det">
             <governor idx="8">school</governor>
             <dependent idx="7">the</dependent>
           </dep>
           <dep type="prep_at">
-            <governor idx="5">violent</governor>
+            <governor idx="4">became</governor>
             <dependent idx="8">school</dependent>
           </dep>
           <dep type="det">
@@ -16034,30 +16034,30 @@
         <dependencies type="collapsed-ccprocessed-dependencies">
           <dep type="root">
             <governor idx="0">ROOT</governor>
-            <dependent idx="5">violent</dependent>
+            <dependent idx="4">became</dependent>
           </dep>
           <dep type="cc">
-            <governor idx="5">violent</governor>
+            <governor idx="4">became</governor>
             <dependent idx="1">But</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="5">violent</governor>
+            <governor idx="4">became</governor>
             <dependent idx="2">it</dependent>
           </dep>
           <dep type="advmod">
-            <governor idx="5">violent</governor>
+            <governor idx="4">became</governor>
             <dependent idx="3">almost</dependent>
           </dep>
-          <dep type="cop">
-            <governor idx="5">violent</governor>
-            <dependent idx="4">became</dependent>
+          <dep type="acomp">
+            <governor idx="4">became</governor>
+            <dependent idx="5">violent</dependent>
           </dep>
           <dep type="det">
             <governor idx="8">school</governor>
             <dependent idx="7">the</dependent>
           </dep>
           <dep type="prep_at">
-            <governor idx="5">violent</governor>
+            <governor idx="4">became</governor>
             <dependent idx="8">school</dependent>
           </dep>
           <dep type="det">
@@ -18011,7 +18011,7 @@
             <CharacterOffsetBegin>4290</CharacterOffsetBegin>
             <CharacterOffsetEnd>4295</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>PERSON</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="4">
@@ -18020,7 +18020,7 @@
             <CharacterOffsetBegin>4296</CharacterOffsetBegin>
             <CharacterOffsetEnd>4301</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>PERSON</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="5">
@@ -23202,31 +23202,31 @@
             <dependent idx="25">incidents</dependent>
           </dep>
           <dep type="advmod">
-            <governor idx="31">violent</governor>
+            <governor idx="30">become</governor>
             <dependent idx="26">where</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="31">violent</governor>
+            <governor idx="30">become</governor>
             <dependent idx="27">it</dependent>
           </dep>
           <dep type="aux">
-            <governor idx="31">violent</governor>
+            <governor idx="30">become</governor>
             <dependent idx="28">could</dependent>
           </dep>
           <dep type="aux">
-            <governor idx="31">violent</governor>
+            <governor idx="30">become</governor>
             <dependent idx="29">have</dependent>
-          </dep>
-          <dep type="cop">
-            <governor idx="31">violent</governor>
-            <dependent idx="30">become</dependent>
           </dep>
           <dep type="rcmod">
             <governor idx="25">incidents</governor>
+            <dependent idx="30">become</dependent>
+          </dep>
+          <dep type="acomp">
+            <governor idx="30">become</governor>
             <dependent idx="31">violent</dependent>
           </dep>
           <dep type="prep">
-            <governor idx="31">violent</governor>
+            <governor idx="30">become</governor>
             <dependent idx="32">on</dependent>
           </dep>
           <dep type="det">
@@ -23320,27 +23320,27 @@
             <dependent idx="25">incidents</dependent>
           </dep>
           <dep type="advmod">
-            <governor idx="31">violent</governor>
+            <governor idx="30">become</governor>
             <dependent idx="26">where</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="31">violent</governor>
+            <governor idx="30">become</governor>
             <dependent idx="27">it</dependent>
           </dep>
           <dep type="aux">
-            <governor idx="31">violent</governor>
+            <governor idx="30">become</governor>
             <dependent idx="28">could</dependent>
           </dep>
           <dep type="aux">
-            <governor idx="31">violent</governor>
+            <governor idx="30">become</governor>
             <dependent idx="29">have</dependent>
-          </dep>
-          <dep type="cop">
-            <governor idx="31">violent</governor>
-            <dependent idx="30">become</dependent>
           </dep>
           <dep type="rcmod">
             <governor idx="25">incidents</governor>
+            <dependent idx="30">become</dependent>
+          </dep>
+          <dep type="acomp">
+            <governor idx="30">become</governor>
             <dependent idx="31">violent</dependent>
           </dep>
           <dep type="det">
@@ -23348,7 +23348,7 @@
             <dependent idx="33">the</dependent>
           </dep>
           <dep type="prep_on">
-            <governor idx="31">violent</governor>
+            <governor idx="30">become</governor>
             <dependent idx="34">bus</dependent>
           </dep>
         </dependencies>
@@ -23434,27 +23434,27 @@
             <dependent idx="25">incidents</dependent>
           </dep>
           <dep type="advmod">
-            <governor idx="31">violent</governor>
+            <governor idx="30">become</governor>
             <dependent idx="26">where</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="31">violent</governor>
+            <governor idx="30">become</governor>
             <dependent idx="27">it</dependent>
           </dep>
           <dep type="aux">
-            <governor idx="31">violent</governor>
+            <governor idx="30">become</governor>
             <dependent idx="28">could</dependent>
           </dep>
           <dep type="aux">
-            <governor idx="31">violent</governor>
+            <governor idx="30">become</governor>
             <dependent idx="29">have</dependent>
-          </dep>
-          <dep type="cop">
-            <governor idx="31">violent</governor>
-            <dependent idx="30">become</dependent>
           </dep>
           <dep type="rcmod">
             <governor idx="25">incidents</governor>
+            <dependent idx="30">become</dependent>
+          </dep>
+          <dep type="acomp">
+            <governor idx="30">become</governor>
             <dependent idx="31">violent</dependent>
           </dep>
           <dep type="det">
@@ -23462,7 +23462,7 @@
             <dependent idx="33">the</dependent>
           </dep>
           <dep type="prep_on">
-            <governor idx="31">violent</governor>
+            <governor idx="30">become</governor>
             <dependent idx="34">bus</dependent>
           </dep>
         </dependencies>
@@ -23902,27 +23902,27 @@
             <dependent idx="4">out</dependent>
           </dep>
           <dep type="mark">
-            <governor idx="10">violent</governor>
+            <governor idx="9">become</governor>
             <dependent idx="5">that</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="10">violent</governor>
+            <governor idx="9">become</governor>
             <dependent idx="6">it</dependent>
           </dep>
           <dep type="aux">
-            <governor idx="10">violent</governor>
+            <governor idx="9">become</governor>
             <dependent idx="7">did</dependent>
           </dep>
           <dep type="neg">
-            <governor idx="10">violent</governor>
+            <governor idx="9">become</governor>
             <dependent idx="8">n't</dependent>
-          </dep>
-          <dep type="cop">
-            <governor idx="10">violent</governor>
-            <dependent idx="9">become</dependent>
           </dep>
           <dep type="ccomp">
             <governor idx="3">worked</governor>
+            <dependent idx="9">become</dependent>
+          </dep>
+          <dep type="acomp">
+            <governor idx="9">become</governor>
             <dependent idx="10">violent</dependent>
           </dep>
         </dependencies>
@@ -23944,27 +23944,27 @@
             <dependent idx="4">out</dependent>
           </dep>
           <dep type="mark">
-            <governor idx="10">violent</governor>
+            <governor idx="9">become</governor>
             <dependent idx="5">that</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="10">violent</governor>
+            <governor idx="9">become</governor>
             <dependent idx="6">it</dependent>
           </dep>
           <dep type="aux">
-            <governor idx="10">violent</governor>
+            <governor idx="9">become</governor>
             <dependent idx="7">did</dependent>
           </dep>
           <dep type="neg">
-            <governor idx="10">violent</governor>
+            <governor idx="9">become</governor>
             <dependent idx="8">n't</dependent>
-          </dep>
-          <dep type="cop">
-            <governor idx="10">violent</governor>
-            <dependent idx="9">become</dependent>
           </dep>
           <dep type="ccomp">
             <governor idx="3">worked</governor>
+            <dependent idx="9">become</dependent>
+          </dep>
+          <dep type="acomp">
+            <governor idx="9">become</governor>
             <dependent idx="10">violent</dependent>
           </dep>
         </dependencies>
@@ -23986,27 +23986,27 @@
             <dependent idx="4">out</dependent>
           </dep>
           <dep type="mark">
-            <governor idx="10">violent</governor>
+            <governor idx="9">become</governor>
             <dependent idx="5">that</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="10">violent</governor>
+            <governor idx="9">become</governor>
             <dependent idx="6">it</dependent>
           </dep>
           <dep type="aux">
-            <governor idx="10">violent</governor>
+            <governor idx="9">become</governor>
             <dependent idx="7">did</dependent>
           </dep>
           <dep type="neg">
-            <governor idx="10">violent</governor>
+            <governor idx="9">become</governor>
             <dependent idx="8">n't</dependent>
-          </dep>
-          <dep type="cop">
-            <governor idx="10">violent</governor>
-            <dependent idx="9">become</dependent>
           </dep>
           <dep type="ccomp">
             <governor idx="3">worked</governor>
+            <dependent idx="9">become</dependent>
+          </dep>
+          <dep type="acomp">
+            <governor idx="9">become</governor>
             <dependent idx="10">violent</dependent>
           </dep>
         </dependencies>
@@ -25656,7 +25656,7 @@
             <governor idx="12">resign</governor>
             <dependent idx="11">to</dependent>
           </dep>
-          <dep type="xcomp">
+          <dep type="vmod">
             <governor idx="6">used</governor>
             <dependent idx="12">resign</dependent>
           </dep>
@@ -25738,7 +25738,7 @@
             <governor idx="12">resign</governor>
             <dependent idx="11">to</dependent>
           </dep>
-          <dep type="xcomp">
+          <dep type="vmod">
             <governor idx="6">used</governor>
             <dependent idx="12">resign</dependent>
           </dep>
@@ -25812,7 +25812,7 @@
             <governor idx="12">resign</governor>
             <dependent idx="11">to</dependent>
           </dep>
-          <dep type="xcomp">
+          <dep type="vmod">
             <governor idx="6">used</governor>
             <dependent idx="12">resign</dependent>
           </dep>
@@ -26160,7 +26160,7 @@
             <dependent idx="10">Arthur</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="23">principal</governor>
+            <governor idx="21">became</governor>
             <dependent idx="11">Jones</dependent>
           </dep>
           <dep type="nsubj">
@@ -26192,23 +26192,23 @@
             <dependent idx="18">time</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="23">principal</governor>
+            <governor idx="21">became</governor>
             <dependent idx="20">he</dependent>
           </dep>
-          <dep type="cop">
-            <governor idx="23">principal</governor>
+          <dep type="conj">
+            <governor idx="5">resigned</governor>
             <dependent idx="21">became</dependent>
           </dep>
           <dep type="poss">
             <governor idx="23">principal</governor>
             <dependent idx="22">our</dependent>
           </dep>
-          <dep type="conj">
-            <governor idx="5">resigned</governor>
+          <dep type="xcomp">
+            <governor idx="21">became</governor>
             <dependent idx="23">principal</dependent>
           </dep>
           <dep type="cc">
-            <governor idx="23">principal</governor>
+            <governor idx="21">became</governor>
             <dependent idx="25">and</dependent>
           </dep>
           <dep type="nsubj">
@@ -26216,7 +26216,7 @@
             <dependent idx="26">he</dependent>
           </dep>
           <dep type="conj">
-            <governor idx="23">principal</governor>
+            <governor idx="21">became</governor>
             <dependent idx="27">stayed</dependent>
           </dep>
           <dep type="prep">
@@ -26254,7 +26254,7 @@
             <dependent idx="10">Arthur</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="23">principal</governor>
+            <governor idx="21">became</governor>
             <dependent idx="11">Jones</dependent>
           </dep>
           <dep type="nsubj">
@@ -26282,19 +26282,19 @@
             <dependent idx="18">time</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="23">principal</governor>
+            <governor idx="21">became</governor>
             <dependent idx="20">he</dependent>
           </dep>
-          <dep type="cop">
-            <governor idx="23">principal</governor>
+          <dep type="conj_and">
+            <governor idx="5">resigned</governor>
             <dependent idx="21">became</dependent>
           </dep>
           <dep type="poss">
             <governor idx="23">principal</governor>
             <dependent idx="22">our</dependent>
           </dep>
-          <dep type="conj_and">
-            <governor idx="5">resigned</governor>
+          <dep type="xcomp">
+            <governor idx="21">became</governor>
             <dependent idx="23">principal</dependent>
           </dep>
           <dep type="nsubj">
@@ -26302,7 +26302,7 @@
             <dependent idx="26">he</dependent>
           </dep>
           <dep type="conj_and">
-            <governor idx="23">principal</governor>
+            <governor idx="21">became</governor>
             <dependent idx="27">stayed</dependent>
           </dep>
           <dep type="prep_for">
@@ -26336,7 +26336,7 @@
             <dependent idx="10">Arthur</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="23">principal</governor>
+            <governor idx="21">became</governor>
             <dependent idx="11">Jones</dependent>
           </dep>
           <dep type="nsubj">
@@ -26364,19 +26364,19 @@
             <dependent idx="18">time</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="23">principal</governor>
+            <governor idx="21">became</governor>
             <dependent idx="20">he</dependent>
           </dep>
-          <dep type="cop">
-            <governor idx="23">principal</governor>
+          <dep type="conj_and">
+            <governor idx="5">resigned</governor>
             <dependent idx="21">became</dependent>
           </dep>
           <dep type="poss">
             <governor idx="23">principal</governor>
             <dependent idx="22">our</dependent>
           </dep>
-          <dep type="conj_and">
-            <governor idx="5">resigned</governor>
+          <dep type="xcomp">
+            <governor idx="21">became</governor>
             <dependent idx="23">principal</dependent>
           </dep>
           <dep type="nsubj">
@@ -26388,7 +26388,7 @@
             <dependent idx="27">stayed</dependent>
           </dep>
           <dep type="conj_and">
-            <governor idx="23">principal</governor>
+            <governor idx="21">became</governor>
             <dependent idx="27">stayed</dependent>
           </dep>
           <dep type="prep_for">
@@ -26725,7 +26725,7 @@
             <CharacterOffsetBegin>6318</CharacterOffsetBegin>
             <CharacterOffsetEnd>6326</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>ORGANIZATION</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="19">
@@ -26939,7 +26939,7 @@
             <governor idx="20">due</governor>
             <dependent idx="19">is</dependent>
           </dep>
-          <dep type="ccomp">
+          <dep type="advcl">
             <governor idx="9">here</governor>
             <dependent idx="20">due</dependent>
           </dep>
@@ -27057,7 +27057,7 @@
             <governor idx="20">due</governor>
             <dependent idx="19">is</dependent>
           </dep>
-          <dep type="ccomp">
+          <dep type="advcl">
             <governor idx="9">here</governor>
             <dependent idx="20">due</dependent>
           </dep>
@@ -27167,7 +27167,7 @@
             <governor idx="20">due</governor>
             <dependent idx="19">is</dependent>
           </dep>
-          <dep type="ccomp">
+          <dep type="advcl">
             <governor idx="9">here</governor>
             <dependent idx="20">due</dependent>
           </dep>
@@ -27301,7 +27301,7 @@
             <Speaker>MALINDA MAYNOR</Speaker>
           </token>
         </tokens>
-        <parse>(ROOT (SBARQ (WHNP (WP What)) (VBD were) (NP (DT those) (JJ Indian) (NNS parents)) (ADJP (RB so) (JJ upset) (PP (IN about))) (. ?))) </parse>
+        <parse>(ROOT (SBARQ (WHNP (WP What)) (SQ (VBD were) (NP (DT those) (JJ Indian) (NNS parents)) (ADJP (RB so) (JJ upset) (PP (IN about)))) (. ?))) </parse>
         <dependencies type="basic-dependencies">
           <dep type="root">
             <governor idx="0">ROOT</governor>
@@ -27919,7 +27919,7 @@
             <CharacterOffsetBegin>6570</CharacterOffsetBegin>
             <CharacterOffsetEnd>6578</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>ORGANIZATION</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="13">
@@ -28898,7 +28898,7 @@
             <Speaker>JAMES MOORE</Speaker>
           </token>
         </tokens>
-        <parse>(ROOT (S (S (NP (PRP It)) (VP (VBD was) (NP (NP (JJ Indian)) (CC and) (VP (VBN colored))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBD was) (NP (DT the) (NN problem))))))) (. .))) </parse>
+        <parse>(ROOT (S (S (NP (PRP It)) (VP (VBD was) (UCP (NP (JJ Indian)) (CC and) (VP (VBN colored))))) (, ,) (CC and) (S (NP (PRP I)) (VP (VBP think) (SBAR (S (NP (DT that)) (VP (VBD was) (NP (DT the) (NN problem))))))) (. .))) </parse>
         <dependencies type="basic-dependencies">
           <dep type="root">
             <governor idx="0">ROOT</governor>
@@ -29707,8 +29707,8 @@
             <governor idx="7">students</governor>
             <dependent idx="6">black</dependent>
           </dep>
-          <dep type="nsubj">
-            <governor idx="9">come</governor>
+          <dep type="dobj">
+            <governor idx="4">want</governor>
             <dependent idx="7">students</dependent>
           </dep>
           <dep type="aux">
@@ -29749,8 +29749,8 @@
             <governor idx="7">students</governor>
             <dependent idx="6">black</dependent>
           </dep>
-          <dep type="nsubj">
-            <governor idx="9">come</governor>
+          <dep type="dobj">
+            <governor idx="4">want</governor>
             <dependent idx="7">students</dependent>
           </dep>
           <dep type="aux">
@@ -29791,8 +29791,8 @@
             <governor idx="7">students</governor>
             <dependent idx="6">black</dependent>
           </dep>
-          <dep type="nsubj">
-            <governor idx="9">come</governor>
+          <dep type="dobj">
+            <governor idx="4">want</governor>
             <dependent idx="7">students</dependent>
           </dep>
           <dep type="aux">
@@ -29952,7 +29952,7 @@
             <CharacterOffsetBegin>7030</CharacterOffsetBegin>
             <CharacterOffsetEnd>7038</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>ORGANIZATION</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="17">
@@ -33107,7 +33107,7 @@
             <CharacterOffsetBegin>7840</CharacterOffsetBegin>
             <CharacterOffsetEnd>7848</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>ORGANIZATION</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="28">
@@ -33194,12 +33194,12 @@
             <governor idx="12">gone</governor>
             <dependent idx="18">and</dependent>
           </dep>
-          <dep type="cop">
-            <governor idx="20">doctors</governor>
-            <dependent idx="19">become</dependent>
-          </dep>
           <dep type="conj">
             <governor idx="12">gone</governor>
+            <dependent idx="19">become</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="19">become</governor>
             <dependent idx="20">doctors</dependent>
           </dep>
           <dep type="conj">
@@ -33215,11 +33215,11 @@
             <dependent idx="24">what</dependent>
           </dep>
           <dep type="neg">
-            <governor idx="20">doctors</governor>
+            <governor idx="19">become</governor>
             <dependent idx="25">not</dependent>
           </dep>
           <dep type="prep">
-            <governor idx="20">doctors</governor>
+            <governor idx="19">become</governor>
             <dependent idx="26">from</dependent>
           </dep>
           <dep type="pobj">
@@ -33288,12 +33288,12 @@
             <governor idx="14">beyond</governor>
             <dependent idx="17">level</dependent>
           </dep>
-          <dep type="cop">
-            <governor idx="20">doctors</governor>
-            <dependent idx="19">become</dependent>
-          </dep>
           <dep type="conj_and">
             <governor idx="12">gone</governor>
+            <dependent idx="19">become</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="19">become</governor>
             <dependent idx="20">doctors</dependent>
           </dep>
           <dep type="conj_and">
@@ -33305,11 +33305,11 @@
             <dependent idx="24">what</dependent>
           </dep>
           <dep type="neg">
-            <governor idx="20">doctors</governor>
+            <governor idx="19">become</governor>
             <dependent idx="25">not</dependent>
           </dep>
           <dep type="prep_from">
-            <governor idx="20">doctors</governor>
+            <governor idx="19">become</governor>
             <dependent idx="27">Prospect</dependent>
           </dep>
         </dependencies>
@@ -33346,6 +33346,10 @@
             <governor idx="12">gone</governor>
             <dependent idx="10">that</dependent>
           </dep>
+          <dep type="nsubj">
+            <governor idx="19">become</governor>
+            <dependent idx="10">that</dependent>
+          </dep>
           <dep type="aux">
             <governor idx="12">gone</governor>
             <dependent idx="11">have</dependent>
@@ -33374,28 +33378,28 @@
             <governor idx="14">beyond</governor>
             <dependent idx="17">level</dependent>
           </dep>
-          <dep type="cop">
-            <governor idx="20">doctors</governor>
-            <dependent idx="19">become</dependent>
-          </dep>
           <dep type="rcmod">
             <governor idx="9">students</governor>
-            <dependent idx="20">doctors</dependent>
+            <dependent idx="19">become</dependent>
           </dep>
           <dep type="conj_and">
             <governor idx="12">gone</governor>
+            <dependent idx="19">become</dependent>
+          </dep>
+          <dep type="xcomp">
+            <governor idx="19">become</governor>
             <dependent idx="20">doctors</dependent>
           </dep>
-          <dep type="conj_and">
-            <governor idx="12">gone</governor>
+          <dep type="xcomp">
+            <governor idx="19">become</governor>
             <dependent idx="22">lawyers</dependent>
           </dep>
           <dep type="conj_and">
             <governor idx="20">doctors</governor>
             <dependent idx="22">lawyers</dependent>
           </dep>
-          <dep type="conj_and">
-            <governor idx="12">gone</governor>
+          <dep type="xcomp">
+            <governor idx="19">become</governor>
             <dependent idx="24">what</dependent>
           </dep>
           <dep type="conj_and">
@@ -33403,11 +33407,11 @@
             <dependent idx="24">what</dependent>
           </dep>
           <dep type="neg">
-            <governor idx="20">doctors</governor>
+            <governor idx="19">become</governor>
             <dependent idx="25">not</dependent>
           </dep>
           <dep type="prep_from">
-            <governor idx="20">doctors</governor>
+            <governor idx="19">become</governor>
             <dependent idx="27">Prospect</dependent>
           </dep>
         </dependencies>
@@ -33483,7 +33487,7 @@
             <CharacterOffsetBegin>7890</CharacterOffsetBegin>
             <CharacterOffsetEnd>7898</CharacterOffsetEnd>
             <POS>NNP</POS>
-            <NER>O</NER>
+            <NER>ORGANIZATION</NER>
             <Speaker>JAMES MOORE</Speaker>
           </token>
           <token id="9">
@@ -33784,8 +33788,8 @@
             <governor idx="18">had</governor>
             <dependent idx="17">'ve</dependent>
           </dep>
-          <dep type="nsubj">
-            <governor idx="21">go</governor>
+          <dep type="dobj">
+            <governor idx="18">had</governor>
             <dependent idx="19">one</dependent>
           </dep>
           <dep type="aux">
@@ -33817,23 +33821,23 @@
             <dependent idx="27">and</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="31">dentist</governor>
+            <governor idx="29">became</governor>
             <dependent idx="28">he</dependent>
           </dep>
-          <dep type="cop">
-            <governor idx="31">dentist</governor>
+          <dep type="conj">
+            <governor idx="18">had</governor>
             <dependent idx="29">became</dependent>
           </dep>
           <dep type="det">
             <governor idx="31">dentist</governor>
             <dependent idx="30">a</dependent>
           </dep>
-          <dep type="conj">
-            <governor idx="18">had</governor>
+          <dep type="xcomp">
+            <governor idx="29">became</governor>
             <dependent idx="31">dentist</dependent>
           </dep>
           <dep type="prep">
-            <governor idx="31">dentist</governor>
+            <governor idx="29">became</governor>
             <dependent idx="32">from</dependent>
           </dep>
           <dep type="pobj">
@@ -33890,8 +33894,8 @@
             <governor idx="18">had</governor>
             <dependent idx="17">'ve</dependent>
           </dep>
-          <dep type="nsubj">
-            <governor idx="21">go</governor>
+          <dep type="dobj">
+            <governor idx="18">had</governor>
             <dependent idx="19">one</dependent>
           </dep>
           <dep type="aux">
@@ -33915,23 +33919,23 @@
             <dependent idx="25">level</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="31">dentist</governor>
+            <governor idx="29">became</governor>
             <dependent idx="28">he</dependent>
           </dep>
-          <dep type="cop">
-            <governor idx="31">dentist</governor>
+          <dep type="conj_and">
+            <governor idx="18">had</governor>
             <dependent idx="29">became</dependent>
           </dep>
           <dep type="det">
             <governor idx="31">dentist</governor>
             <dependent idx="30">a</dependent>
           </dep>
-          <dep type="conj_and">
-            <governor idx="18">had</governor>
+          <dep type="xcomp">
+            <governor idx="29">became</governor>
             <dependent idx="31">dentist</dependent>
           </dep>
           <dep type="prep_from">
-            <governor idx="31">dentist</governor>
+            <governor idx="29">became</governor>
             <dependent idx="33">Prospect</dependent>
           </dep>
         </dependencies>
@@ -33992,8 +33996,8 @@
             <governor idx="18">had</governor>
             <dependent idx="17">'ve</dependent>
           </dep>
-          <dep type="nsubj">
-            <governor idx="21">go</governor>
+          <dep type="dobj">
+            <governor idx="18">had</governor>
             <dependent idx="19">one</dependent>
           </dep>
           <dep type="aux">
@@ -34017,23 +34021,23 @@
             <dependent idx="25">level</dependent>
           </dep>
           <dep type="nsubj">
-            <governor idx="31">dentist</governor>
+            <governor idx="29">became</governor>
             <dependent idx="28">he</dependent>
           </dep>
-          <dep type="cop">
-            <governor idx="31">dentist</governor>
+          <dep type="conj_and">
+            <governor idx="18">had</governor>
             <dependent idx="29">became</dependent>
           </dep>
           <dep type="det">
             <governor idx="31">dentist</governor>
             <dependent idx="30">a</dependent>
           </dep>
-          <dep type="conj_and">
-            <governor idx="18">had</governor>
+          <dep type="xcomp">
+            <governor idx="29">became</governor>
             <dependent idx="31">dentist</dependent>
           </dep>
           <dep type="prep_from">
-            <governor idx="31">dentist</governor>
+            <governor idx="29">became</governor>
             <dependent idx="33">Prospect</dependent>
           </dep>
         </dependencies>
@@ -34266,7 +34270,7 @@
             <Speaker>JAMES MOORE</Speaker>
           </token>
         </tokens>
-        <parse>(ROOT (S (S (ADVP (RB Prior) (PP (TO to) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB just))))))) (, ,) (NP (PRP they)) (VP (VBP 're) (VP (VBN listed)))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB have) (S (NP (PRP it)) (ADJP (RB right))) (PP (IN before) (NP (NP (PRP me)) (ADVP (RB right) (PP (IN at) (NP (DT this) (NN time))))))))) (. .))) </parse>
+        <parse>(ROOT (S (S (ADVP (RB Prior) (PP (TO to) (SBAR (IN that) (S (NP (EX there)) (VP (VBD was) (ADVP (RB just))))))) (, ,) (NP (PRP they)) (VP (VBP 're) (VP (VBN listed)))) (, ,) (CC but) (S (NP (PRP I)) (VP (VBP do) (RB n't) (VP (VB have) (NP (PRP it)) (PP (ADVP (ADVP (RB right) (PP (IN before) (NP (PRP me)))) (RB right)) (IN at) (NP (DT this) (NN time)))))) (. .))) </parse>
         <dependencies type="basic-dependencies">
           <dep type="root">
             <governor idx="0">ROOT</governor>
@@ -34324,16 +34328,16 @@
             <governor idx="10">listed</governor>
             <dependent idx="16">have</dependent>
           </dep>
-          <dep type="nsubj">
-            <governor idx="18">right</governor>
+          <dep type="dobj">
+            <governor idx="16">have</governor>
             <dependent idx="17">it</dependent>
           </dep>
-          <dep type="xcomp">
-            <governor idx="16">have</governor>
+          <dep type="advmod">
+            <governor idx="22">at</governor>
             <dependent idx="18">right</dependent>
           </dep>
           <dep type="prep">
-            <governor idx="16">have</governor>
+            <governor idx="18">right</governor>
             <dependent idx="19">before</dependent>
           </dep>
           <dep type="pobj">
@@ -34341,11 +34345,11 @@
             <dependent idx="20">me</dependent>
           </dep>
           <dep type="advmod">
-            <governor idx="20">me</governor>
+            <governor idx="18">right</governor>
             <dependent idx="21">right</dependent>
           </dep>
           <dep type="prep">
-            <governor idx="21">right</governor>
+            <governor idx="16">have</governor>
             <dependent idx="22">at</dependent>
           </dep>
           <dep type="det">
@@ -34402,20 +34406,20 @@
             <governor idx="10">listed</governor>
             <dependent idx="16">have</dependent>
           </dep>
-          <dep type="nsubj">
-            <governor idx="18">right</governor>
+          <dep type="dobj">
+            <governor idx="16">have</governor>
             <dependent idx="17">it</dependent>
           </dep>
-          <dep type="xcomp">
+          <dep type="advmod">
             <governor idx="16">have</governor>
             <dependent idx="18">right</dependent>
           </dep>
           <dep type="prep_before">
-            <governor idx="16">have</governor>
+            <governor idx="18">right</governor>
             <dependent idx="20">me</dependent>
           </dep>
           <dep type="advmod">
-            <governor idx="20">me</governor>
+            <governor idx="18">right</governor>
             <dependent idx="21">right</dependent>
           </dep>
           <dep type="det">
@@ -34423,7 +34427,7 @@
             <dependent idx="23">this</dependent>
           </dep>
           <dep type="prep_at">
-            <governor idx="21">right</governor>
+            <governor idx="16">have</governor>
             <dependent idx="24">time</dependent>
           </dep>
         </dependencies>
@@ -34472,20 +34476,20 @@
             <governor idx="10">listed</governor>
             <dependent idx="16">have</dependent>
           </dep>
-          <dep type="nsubj">
-            <governor idx="18">right</governor>
+          <dep type="dobj">
+            <governor idx="16">have</governor>
             <dependent idx="17">it</dependent>
           </dep>
-          <dep type="xcomp">
+          <dep type="advmod">
             <governor idx="16">have</governor>
             <dependent idx="18">right</dependent>
           </dep>
           <dep type="prep_before">
-            <governor idx="16">have</governor>
+            <governor idx="18">right</governor>
             <dependent idx="20">me</dependent>
           </dep>
           <dep type="advmod">
-            <governor idx="20">me</governor>
+            <governor idx="18">right</governor>
             <dependent idx="21">right</dependent>
           </dep>
           <dep type="det">
@@ -34493,7 +34497,7 @@
             <dependent idx="23">this</dependent>
           </dep>
           <dep type="prep_at">
-            <governor idx="21">right</governor>
+            <governor idx="16">have</governor>
             <dependent idx="24">time</dependent>
           </dep>
         </dependencies>
@@ -36775,7 +36779,7 @@
             <governor idx="13">talk</governor>
             <dependent idx="12">could</dependent>
           </dep>
-          <dep type="ccomp">
+          <dep type="advcl">
             <governor idx="6">think</governor>
             <dependent idx="13">talk</dependent>
           </dep>
@@ -36877,7 +36881,7 @@
             <governor idx="13">talk</governor>
             <dependent idx="12">could</dependent>
           </dep>
-          <dep type="ccomp">
+          <dep type="advcl">
             <governor idx="6">think</governor>
             <dependent idx="13">talk</dependent>
           </dep>
@@ -36971,7 +36975,7 @@
             <governor idx="13">talk</governor>
             <dependent idx="12">could</dependent>
           </dep>
-          <dep type="ccomp">
+          <dep type="advcl">
             <governor idx="6">think</governor>
             <dependent idx="13">talk</dependent>
           </dep>
@@ -37011,7 +37015,7 @@
             <governor idx="25">think</governor>
             <dependent idx="24">n't</dependent>
           </dep>
-          <dep type="ccomp">
+          <dep type="advcl">
             <governor idx="6">think</governor>
             <dependent idx="25">think</dependent>
           </dep>
@@ -37677,6 +37681,13 @@
           <text>I</text>
         </mention>
         <mention>
+          <sentence>95</sentence>
+          <start>20</start>
+          <end>21</end>
+          <head>20</head>
+          <text>me</text>
+        </mention>
+        <mention>
           <sentence>97</sentence>
           <start>6</start>
           <end>7</end>
@@ -37743,17 +37754,17 @@
       <coreference>
         <mention representative="true">
           <sentence>99</sentence>
-          <start>6</start>
-          <end>7</end>
-          <head>6</head>
-          <text>Brooks</text>
+          <start>1</start>
+          <end>13</end>
+          <head>1</head>
+          <text>Some of them , Dr. Brooks and his brothers and others .</text>
         </mention>
         <mention>
-          <sentence>99</sentence>
-          <start>8</start>
-          <end>9</end>
-          <head>8</head>
-          <text>his</text>
+          <sentence>100</sentence>
+          <start>4</start>
+          <end>5</end>
+          <head>4</head>
+          <text>it</text>
         </mention>
       </coreference>
       <coreference>
@@ -37775,17 +37786,24 @@
       <coreference>
         <mention representative="true">
           <sentence>99</sentence>
-          <start>1</start>
-          <end>13</end>
-          <head>1</head>
-          <text>Some of them , Dr. Brooks and his brothers and others .</text>
+          <start>3</start>
+          <end>4</end>
+          <head>3</head>
+          <text>them</text>
+        </mention>
+        <mention>
+          <sentence>99</sentence>
+          <start>8</start>
+          <end>12</end>
+          <head>9</head>
+          <text>his brothers and others</text>
         </mention>
         <mention>
           <sentence>100</sentence>
-          <start>4</start>
-          <end>5</end>
-          <head>4</head>
-          <text>it</text>
+          <start>24</start>
+          <end>25</end>
+          <head>24</head>
+          <text>they</text>
         </mention>
       </coreference>
       <coreference>
@@ -37858,29 +37876,6 @@
           <end>4</end>
           <head>3</head>
           <text>we</text>
-        </mention>
-      </coreference>
-      <coreference>
-        <mention representative="true">
-          <sentence>99</sentence>
-          <start>3</start>
-          <end>4</end>
-          <head>3</head>
-          <text>them</text>
-        </mention>
-        <mention>
-          <sentence>99</sentence>
-          <start>8</start>
-          <end>12</end>
-          <head>9</head>
-          <text>his brothers and others</text>
-        </mention>
-        <mention>
-          <sentence>100</sentence>
-          <start>24</start>
-          <end>25</end>
-          <head>24</head>
-          <text>they</text>
         </mention>
       </coreference>
       <coreference>
@@ -38069,6 +38064,36 @@
       </coreference>
       <coreference>
         <mention representative="true">
+          <sentence>4</sentence>
+          <start>4</start>
+          <end>11</end>
+          <head>4</head>
+          <text>Prospect , born and reared at Prospect</text>
+        </mention>
+        <mention>
+          <sentence>85</sentence>
+          <start>15</start>
+          <end>19</end>
+          <head>16</head>
+          <text>the Prospect and Maxton</text>
+        </mention>
+        <mention>
+          <sentence>89</sentence>
+          <start>6</start>
+          <end>11</end>
+          <head>6</head>
+          <text>Prospect , Maxton and Pembroke</text>
+        </mention>
+        <mention>
+          <sentence>94</sentence>
+          <start>8</start>
+          <end>13</end>
+          <head>8</head>
+          <text>Prospect , Pembroke and Maxton</text>
+        </mention>
+      </coreference>
+      <coreference>
+        <mention representative="true">
           <sentence>101</sentence>
           <start>1</start>
           <end>6</end>
@@ -38134,13 +38159,6 @@
           <end>29</end>
           <head>28</head>
           <text>he</text>
-        </mention>
-        <mention>
-          <sentence>95</sentence>
-          <start>20</start>
-          <end>25</end>
-          <head>20</head>
-          <text>me right at this time</text>
         </mention>
       </coreference>
       <coreference>
@@ -38634,10 +38652,10 @@
       <coreference>
         <mention representative="true">
           <sentence>16</sentence>
-          <start>15</start>
-          <end>17</end>
-          <head>15</head>
-          <text>s -RSB-</text>
+          <start>10</start>
+          <end>22</end>
+          <head>10</head>
+          <text>Maxton , Gus Spero -LSB- s -RSB- , Buddy Dunn and others</text>
         </mention>
         <mention>
           <sentence>16</sentence>
@@ -38722,31 +38740,10 @@
         </mention>
         <mention>
           <sentence>20</sentence>
-          <start>19</start>
-          <end>20</end>
-          <head>19</head>
-          <text>he</text>
-        </mention>
-        <mention>
-          <sentence>20</sentence>
           <start>24</start>
           <end>26</end>
           <head>25</head>
           <text>Mr. Lacy</text>
-        </mention>
-        <mention>
-          <sentence>20</sentence>
-          <start>29</start>
-          <end>30</end>
-          <head>29</head>
-          <text>he</text>
-        </mention>
-        <mention>
-          <sentence>20</sentence>
-          <start>35</start>
-          <end>36</end>
-          <head>35</head>
-          <text>he</text>
         </mention>
         <mention>
           <sentence>42</sentence>
@@ -38821,6 +38818,27 @@
           <end>15</end>
           <head>14</head>
           <text>Uncle Early</text>
+        </mention>
+        <mention>
+          <sentence>20</sentence>
+          <start>19</start>
+          <end>20</end>
+          <head>19</head>
+          <text>he</text>
+        </mention>
+        <mention>
+          <sentence>20</sentence>
+          <start>29</start>
+          <end>30</end>
+          <head>29</head>
+          <text>he</text>
+        </mention>
+        <mention>
+          <sentence>20</sentence>
+          <start>35</start>
+          <end>36</end>
+          <head>35</head>
+          <text>he</text>
         </mention>
         <mention>
           <sentence>23</sentence>
@@ -39967,13 +39985,6 @@
       </coreference>
       <coreference>
         <mention representative="true">
-          <sentence>81</sentence>
-          <start>3</start>
-          <end>6</end>
-          <head>3</head>
-          <text>Indian and colored</text>
-        </mention>
-        <mention>
           <sentence>83</sentence>
           <start>2</start>
           <end>3</end>
@@ -40077,22 +40088,6 @@
       </coreference>
       <coreference>
         <mention representative="true">
-          <sentence>89</sentence>
-          <start>6</start>
-          <end>11</end>
-          <head>6</head>
-          <text>Prospect , Maxton and Pembroke</text>
-        </mention>
-        <mention>
-          <sentence>94</sentence>
-          <start>8</start>
-          <end>13</end>
-          <head>8</head>
-          <text>Prospect , Pembroke and Maxton</text>
-        </mention>
-      </coreference>
-      <coreference>
-        <mention representative="true">
           <sentence>93</sentence>
           <start>9</start>
           <end>28</end>
@@ -40121,6 +40116,22 @@
           <end>26</end>
           <head>25</head>
           <text>the college level</text>
+        </mention>
+      </coreference>
+      <coreference>
+        <mention representative="true">
+          <sentence>96</sentence>
+          <start>6</start>
+          <end>8</end>
+          <head>7</head>
+          <text>more Indians</text>
+        </mention>
+        <mention>
+          <sentence>99</sentence>
+          <start>8</start>
+          <end>9</end>
+          <head>8</head>
+          <text>his</text>
         </mention>
       </coreference>
     </coreference>

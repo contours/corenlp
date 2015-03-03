@@ -12,6 +12,6 @@ repositories {
 }
 
 dependencies {
-    compile 'edu.stanford.nlp:stanford-corenlp:3.3.1'
-    compile 'edu.stanford.nlp:stanford-corenlp:3.3.1:models'
+    compile 'edu.stanford.nlp:stanford-corenlp:3.5.1'
+    compile 'edu.stanford.nlp:stanford-corenlp:3.5.1:models'
 }
