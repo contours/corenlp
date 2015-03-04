@@ -8,6 +8,8 @@ data/in/U-0017.xml
 data/in/U-0019.xml
 data/in/U-0020.xml
 data/in/U-0023.xml
+data/in/U-0078.xml
+data/in/U-0080.xml
 data/in/U-0098.xml
 data/in/U-0178.xml
 data/in/U-0180.xml
