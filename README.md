@@ -55,6 +55,13 @@ To you.
 
 ```
 
+[`splitta`](https://github.com/contours/node-splitta) can be used to
+sentence-tokenize input files:
+
+```
+$ cat U0080_Transcript.txt | ./bin/splitta > U-0080.txt
+```
+
 The `add-doc-ids.sh` script can handle wrapping plain text files in `doc` elements:
 
 ```
@@ -69,9 +76,22 @@ example, for document with id `U-0012` shown above, the
 SpeakerAnnotator will expect to find a file
 `data/in/U-0012.speakers`. This file is a plain text file with one
 speaker name per line. It should have exactly the same number of lines
-as there are sentences in input document. (A speakers file can be
-created for one of the SOHP interviews by using the `dump-speakers.py`
-script in the `evaluation` project, e.g. `./dump-speakers.py U-0012`.)
+as there are sentences in input document.
+
+A speakers file can be created for one of the DocSouth interviews in
+the Redis database by using the `dump-speakers.py` script in the
+`evaluation` project:
+
+```
+$ ./dump-speakers.py U-0012 > U-0012.speakers
+```
+
+A speakers file can be created for a sentence-tokenized SOHP
+transcript by using the `print-speakers.py` script in this project:
+
+```
+$ ./print-speakers.py U-0080.txt > U-0080.speakers
+```
 
 ## Output files
 
