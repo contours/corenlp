@@ -1,0 +1,1105 @@
+
+"Arthur J. Hanes , Jr."
+Arthur J. Hanes [PERSON]
+  1: [Arthur J. Hanes] This is an interview with Arthur J. Hanes , Jr. .
+  1: [Arthur J. Hanes , Jr.] This is an interview with Arthur J. Hanes , Jr. .
+  1: [Jr.] This is an interview with Arthur J. Hanes , Jr. .
+  2: [his] At his law firm Dominic , Fletcher , Yielding , Wood and Lloyd in Birmingham , Alabama .
+  5: [Arthur J. Hanes] My name is Arthur J. Hanes , Jr. .
+  5: [Arthur J. Hanes , Jr.] My name is Arthur J. Hanes , Jr. .
+  5: [Jr.] My name is Arthur J. Hanes , Jr. .
+  5: [My] My name is Arthur J. Hanes , Jr. .
+  6: [me] People call me Art .
+  7: [I] Some people , I guess , by virtue of the honorific call me Judge .
+  7: [me] Some people , I guess , by virtue of the honorific call me Judge .
+ 10: [I] I was born before World War II , right as it started .
+ 11: [I] I remember very well my dad was a PT boat skipper in the South Pacific during World War II .
+ 11: [my] I remember very well my dad was a PT boat skipper in the South Pacific during World War II .
+ 12: [I] I remember those days well .
+ 14: [my] He and my mother were good card players and supplemented the GI Bill by playing cards at night .
+ 16: [me] He would leave her sleeping in the morning and take me to law school .
+ 17: [I] It was n't long after that that I went to law school so I remembered that very well .
+ 18: [My] My grand daddy was the only general evangelist the North Alabama Methodists ever had .
+ 20: [I] I was raised here during the war with my dad 's five sisters and my mother 's mother and daddy .
+ 20: [my] I was raised here during the war with my dad 's five sisters and my mother 's mother and daddy .
+ 21: [I] I was basically raised by my aunts and my grandmother during those years .
+ 21: [my] I was basically raised by my aunts and my grandmother during those years .
+ 22: [I] Thereafter I traveled with my family .
+ 22: [my] Thereafter I traveled with my family .
+ 23: [I] I was raised in Birmingham , but we lived in Chicago and Washington , D. C. when my dad was in the FBI .
+ 23: [my] I was raised in Birmingham , but we lived in Chicago and Washington , D. C. when my dad was in the FBI .
+ 24: [I] Then we came back and I went to Woodlawn High School here , and from there went to Princeton .
+ 25: [I] I played football here , a very , very fine football school .
+ 26: [I] I supposed I was the worst athlete that every started at Woodlawn High School , but everybody got scholarships .
+ 26: [the worst athlete that every started at Woodlawn High School] I supposed I was the worst athlete that every started at Woodlawn High School , but everybody got scholarships .
+ 27: [I] Mine , of course , were to places like Sewanee and Ripon College , and I was invited to walk on at Vanderbilt .
+ 27: [Mine] Mine , of course , were to places like Sewanee and Ripon College , and I was invited to walk on at Vanderbilt .
+ 28: [I] I wanted to play for the new coach at Alabama .
+ 29: [I] Coach Paul Bryant had been there a couple of years and had a couple of my teammates with him , so I went down to talk with him about going to Alabama .
+ 29: [my] Coach Paul Bryant had been there a couple of years and had a couple of my teammates with him , so I went down to talk with him about going to Alabama .
+ 30: [me] He said , `` Artie , you can walk on here , but you 're too little to play for me .
+ 31: [I] I think you ought to take that brain and go up to that Ivy League and play some of that sissy ball . ''
+ 32: [I] It was the best advice I ever got from a man not my father .
+ 32: [my] It was the best advice I ever got from a man not my father .
+ 33: [I] So that 's how I wound up at Princeton .
+ 34: [I] I came back to Alabama to law school .
+ 38: [I] In 1965 I was in law school , and my dad had left the office of mayor of Birmingham and not run for a second term .
+ 38: [my] In 1965 I was in law school , and my dad had left the office of mayor of Birmingham and not run for a second term .
+ 41: [I] I was in a position to have some of those pretty good jobs at the big law firms .
+ 42: [I] We discussed whether we were going to be trial lawyers or whether we were going to go for the secure silk stocking life , and we decided to partner up when I finished law school , and take cases , and try cases together .
+ 43: [me] So my law professor let me off for two weeks in the fall of '65 to try Collin Leroy Wilkins down in Hayneville with my father , and he was acquitted .
+ 43: [my] So my law professor let me off for two weeks in the fall of '65 to try Collin Leroy Wilkins down in Hayneville with my father , and he was acquitted .
+ 48: [I] My dad and I went to London .
+ 48: [My] My dad and I went to London .
+ 50: [I] As we speak now I 'm the only person alive who ever prepared the Martin Luther King case for trial , and it was our turn of events .
+ 52: [I] I had spent all day Friday with him in Memphis .
+ 54: [I] I came back to Birmingham to get my dad and our files .
+ 54: [my] I came back to Birmingham to get my dad and our files .
+ 57: [I] By Thursday he was calling saying , `` I made the worst mistake I ever made in my life .
+ 57: [my] By Thursday he was calling saying , `` I made the worst mistake I ever made in my life .
+ 58: [me] All this guy wants me to do is plead guilty .
+ 59: [me] Please come back and try this case for me . ''
+ 61: [I] He got in there right after I left on Friday .
+ 64: [I] A sidelight , not what you 're here for , but I 'm reasonably convinced James Earl Ray did not fire the shot the killed Dr. King .
+ 65: [I] I think I could convince you of it if I had about thirty minutes to do so .
+ 69: [I] Pop and I agreed that we were going to be courageous lawyers , that we would undertake unpopular causes for reasonable fees of course .
+ 83: [I] By then I was sitting in the front chair , and my dad was slowing down some .
+ 83: [my] By then I was sitting in the front chair , and my dad was slowing down some .
+107: [me] In fact , Dynamite Bob led me into being judge .
+108: [I] I 'll tell you how .
+109: [I] Just like in the Ray case I try not to be a conspiracy nut .
+110: [I] In fact , I try not to be any kind of nut at all .
+111: [I] In the Chambliss case I try not to be spooky or eerie , but let me just tell you an experience I had .
+111: [me] In the Chambliss case I try not to be spooky or eerie , but let me just tell you an experience I had .
+116: [Hanes] It came the moment , and the judge looked down and said , `` Mr. Hanes , your first witness . ''
+116: [Mr. Hanes] It came the moment , and the judge looked down and said , `` Mr. Hanes , your first witness . ''
+116: [Mr. Hanes , your first witness] It came the moment , and the judge looked down and said , `` Mr. Hanes , your first witness . ''
+116: [your first witness] It came the moment , and the judge looked down and said , `` Mr. Hanes , your first witness . ''
+117: [I] I stood up , and I looked down at Bob Chambliss , and said , `` Take the stand Bob . ''
+118: [I] I 'll never forget it .
+119: [me] He looked up at me and said , `` No . ''
+120: [I] I said , `` Bob ! You did n't understand me .
+120: [me] I said , `` Bob ! You did n't understand me .
+123: [I] He said , `` I 'm not going . ''
+124: [I] Willoughby , I try not to be , and I know that in retrospect it 's not as I remember it , but from this vantage point I swear his face shimmered with evil as I looked at it .
+125: [I] It was at that moment that I knew to a certainty he was the vilest , most evil , guiltiest son of a gun I had ever touched or represented .
+126: [I] Somewhere deep inside me , when he was looking up at me and said , `` I 'm not going , '' -- we were in front of the entire world -- I knew right that moment I was n't going spend the rest of my life defending and cashing myself , and bleeding my heart out for people like this any more .
+126: [me] Somewhere deep inside me , when he was looking up at me and said , `` I 'm not going , '' -- we were in front of the entire world -- I knew right that moment I was n't going spend the rest of my life defending and cashing myself , and bleeding my heart out for people like this any more .
+126: [my] Somewhere deep inside me , when he was looking up at me and said , `` I 'm not going , '' -- we were in front of the entire world -- I knew right that moment I was n't going spend the rest of my life defending and cashing myself , and bleeding my heart out for people like this any more .
+126: [myself] Somewhere deep inside me , when he was looking up at me and said , `` I 'm not going , '' -- we were in front of the entire world -- I knew right that moment I was n't going spend the rest of my life defending and cashing myself , and bleeding my heart out for people like this any more .
+130: [I] I did the absolute , dead level best I could to prevent it , but I 'm telling you that was as just a verdict as there ever was in the whole history of the world .
+133: [I] Then the opportunity came , and I became a circuit judge here .
+134: [I] We are divided into divisions , and I spent the next nearly twenty years trying nothing but civil cases which I had done a good bit of as a lawyer also .
+135: [I] I 've enjoyed writing and serving on committees .
+136: [I] I 'm chairman of our pattern jury instructions committee .
+136: [chairman of our pattern jury instructions committee] I 'm chairman of our pattern jury instructions committee .
+137: [I] I helped write the rules of evidence .
+138: [I] I wrote a domestic relations book .
+140: [I] I guess that 's a nutshell rendition .
+149: [I] The truth of the matter is she did n't prove a thing , I did n't think .
+160: [I] I believe he remembered everything that he did that night , but the real truth of it , the real truth of it is that it 's harder on the state than the defendant .
+163: [I] So in general terms I would guess that the popular line would be that , `` Oh that 's a horrible disadvantage to the defendant . ''
+172: [My] My gracious , the Liuzzo case had the attorney general of the United States down here .
+179: [I] That was the first of the times , totally undeserved nonetheless true , Birmingham had been pilloried in the media of the world , and there was this collective societal desire to purge ourselves of this demon , so I think it probably was well received at the time .
+184: [I] I 'll say this about Blanton and Cherry .
+186: [I] I commend them for that .
+188: [I] I do , but my friend Judge Jim Garrett was on the bench at the same time I was and , frankly , we discussed those at the time , not necessarily because I knew anything about the case but because I was one of the authors of our rules of evidence .
+188: [my] I do , but my friend Judge Jim Garrett was on the bench at the same time I was and , frankly , we discussed those at the time , not necessarily because I knew anything about the case but because I was one of the authors of our rules of evidence .
+209: [I] I 've always -- I 'd say not always -- I have said that Bob Chambliss was the most evil person I ever met or dealt with .
+210: [I] I turned down an unpopular case just because of the -- I wo n't tell you what we talked about or what he said -- but Byron De La Beckwith asked me to represent him at one time in the Medger Evers case , and I just could n't do it .
+210: [me] I turned down an unpopular case just because of the -- I wo n't tell you what we talked about or what he said -- but Byron De La Beckwith asked me to represent him at one time in the Medger Evers case , and I just could n't do it .
+211: [I] I 'm sorry .
+212: [I] I prided myself on being a lawyer , a lawyer without personal -- that 's another story .
+212: [myself] I prided myself on being a lawyer , a lawyer without personal -- that 's another story .
+217: [me] Would you like to hear that story from me ?
+221: [I] They came in with the conviction , and I and Judge Mike Bolen who is our probate judge here was a partner , sat at the table , my brother Tom , and my dad and I conferred after the immediate flurry after the verdict came down .
+221: [a partner] They came in with the conviction , and I and Judge Mike Bolen who is our probate judge here was a partner , sat at the table , my brother Tom , and my dad and I conferred after the immediate flurry after the verdict came down .
+221: [my] They came in with the conviction , and I and Judge Mike Bolen who is our probate judge here was a partner , sat at the table , my brother Tom , and my dad and I conferred after the immediate flurry after the verdict came down .
+224: [I] I told my partners , `` Fellows , I 'll take the rap .
+224: [my] I told my partners , `` Fellows , I 'll take the rap .
+225: [I] I sat in the front chair .
+226: [I] I made the arguments .
+227: [I] I 'll go tell Miss Tee , '' because we all loved her as much as we despised Bob .
+228: [I] So I went to their house in North Birmingham .
+232: [I] I went the front door , and it was one of those clear , rare , low humidity Birmingham days , in the 70s maybe .
+233: [I] The front door was open , but the screen was shut , and I could see it was dark inside .
+234: [I] I rapped on the screen .
+235: [I] I could hear this faint little voice , `` Who is it ? '' I said , `` Miss Tee , it 's Art . ''
+237: [I] And I opened the screen , and I stepped into their little living room .
+239: [I] She was lying there on the sofa and , I do n't know , maybe I read too much great literature at Princeton , but I had these pictures in my mind .
+239: [my] She was lying there on the sofa and , I do n't know , maybe I read too much great literature at Princeton , but I had these pictures in my mind .
+240: [I] I could see the dust motes floating through the slanting rays of sunlight , the few that were filtering into the room .
+246: [I] I scootched my way onto a little edge of the sofa where she was lying , and I said , `` Miss Tee , . I 've got bad news for you . ''
+246: [my] I scootched my way onto a little edge of the sofa where she was lying , and I said , `` Miss Tee , . I 've got bad news for you . ''
+247: [I] She said , `` What is it ? '' I said , `` Miss Tee , they convicted Bob . ''
+248: [I] She said , `` They convicted Bob ? '' And I said , `` Yes , mam . ''
+249: [I] She said , `` When will he be coming home ? '' I said , `` Miss Tee , he wo n't be coming home . ''
+250: [I] She pulled the rag off her head , and she said , `` He wo n't be corning home ? '' And I said , `` No , mam '' She said , `` Do you promise me ? '' I said , `` Yes , mam . ''
+250: [me] She pulled the rag off her head , and she said , `` He wo n't be corning home ? '' And I said , `` No , mam '' She said , `` Do you promise me ? '' I said , `` Yes , mam . ''
+253: [I] I knew at that moment , I knew at that very moment that my instinct was right , that he was an evil , guilty , son of a gun . ''
+253: [my] I knew at that moment , I knew at that very moment that my instinct was right , that he was an evil , guilty , son of a gun . ''
+258: [I] He was n't there , but Bill Baxley can tell a story , I can assure you .
+262: [I] I do n't know .
+264: [I] Bill would probably have a better idea than I do .
+272: [I] I would think in part the lack of access to FBI information .
+274: [I] I think even Doug Jones had difficulty getting all of it from the federal government .
+277: [I] I would think that in those days there would have been a lot of debate about the advantages and disadvantages .
+279: [I] I mean the University of Alabama was n't even integrated in 1963 .
+283: [I] I do n't know .
+284: [I] I 'm just speculating .
+285: [I] I can think of a lot of reasons why .
+286: [I] I would think there would probably have been fear on the part of the witnesses to come forward .
+287: [I] As I understand it there is evidence that is very compelling against all these defendants that to this good day has n't been put on simply due to , even to this day , the reluctance and the fear of witnesses to testify .
+289: [I] I would defer to Bill Baxley 's assessment of it as opposed to mine , but I can think from scratch of a lot of good reasons why it would n't have been prosecuted then .
+294: [I] As a young lawyer I used to go by and talk to him .
+300: [I] Judge Gibson told me one time , I guess it was after that trial but before I became judge .
+300: [me] Judge Gibson told me one time , I guess it was after that trial but before I became judge .
+301: [I] I went by his office and was visiting with him .
+304: [me] Let me tell you something .
+305: [I] They say that I 'm mean , and I guess that I am , but I want you to know I did n't start out to be mean .
+306: [I] I started out to be nice .
+307: [I] I started out to be everybody 's friend , but lawyers will make you mean .
+309: [I] You 've got to get your wisdom where you find it , and that was a piece of wisdom that I took to heart .
+317: [I] I do n't know if you 've ever been in that big ceremonial courtroom ?
+321: [I] I think that it made the movie where I pointed out that jury box to Spike Lee , but behind it there was a wall , and that wall was just matted with microphones from all over the world , news people hanging them down to record the proceedings which was just radical for the day that that would be allowed .
+324: [I] I mean , bear in mind , I had three great grand daddies rode off from this valley before Birmingham was a city .
+325: [My] My grand daddy was a preacher .
+326: [I] I had five aunts who were prominent school principals .
+328: [My] My daddy was president of the Birmingham Board of Education for ten years .
+331: [I] He and I were active trial lawyers here , and I spent twenty years as circuit judge .
+332: [I] So , in answer to your questions , `` Did I know anybody in Operation New Birmingham ? '' yeah , I did .
+336: [I] I 've known everybody in town , if that 's possible in a city this size , my whole life .
+336: [my] I 've known everybody in town , if that 's possible in a city this size , my whole life .
+338: [I] I do n't know where you 're leading me to .
+338: [me] I do n't know where you 're leading me to .
+339: [I] I 'm sorry .
+341: [I] I lived through those days .
+342: [I] I knew Al Lingo when Al Lingo -- I guess you 've run across his name ?
+346: [I] I went over there .
+347: [I] I argued to the state supreme court when I was a second year law student before they even had third year cards .
+347: [a second year law student] I argued to the state supreme court when I was a second year law student before they even had third year cards .
+349: [I] I would carry messages .
+350: [I] I guess I was twenty-one .
+351: [I] I was in college , but I would carry messages for Governor Wallace or my dad , whatever it was .
+351: [my] I was in college , but I would carry messages for Governor Wallace or my dad , whatever it was .
+352: [I] I remember going in and Colonel Lingo always looked like he stepped out of a band box .
+358: [I] I do n't know , when ? You 're the historian .
+359: [I] You would probably know better than I. Maybe 1962 , I guess , possibly 61 , 62 , 63 -- those years .
+366: [I] I say poor old Bull Connor , poor old my daddy ! Pop used to just agonize .
+366: [my] I say poor old Bull Connor , poor old my daddy ! Pop used to just agonize .
+372: [My] My dad and Jack Kennedy had a real affinity for each other .
+376: [I] I guess it was 1961 or 62 .
+377: [My] My dad was still mayor .
+380: [my] But my dad just agonized .
+384: [I] I think Bill Hartsfield was mayor of Atlanta then .
+388: [My] My dad was so agonized over it , and he was also so very worried about the potential for violence in Birmingham .
+390: [I] I do n't know if it was the summer of '61 or ' 62 , but he asked the president if they could make peace , and he suggested that this summer to integrate the golf courses .
+392: [I] I 'm talking about integration .
+395: [My] My dad proposed to take the golf courses , the adult facilities , integrate those that summer , and then the adults would realize that it was n't the end of the world , that life would go on , and then the next summer he could give the swimming pools .
+399: [I] I guess that was the Civil Rights Act of 62 maybe , or 63 .
+407: [I] We 're talking about my daddy who , I guess , history has on the wrong side , if you will , of that issue .
+407: [my] We 're talking about my daddy who , I guess , history has on the wrong side , if you will , of that issue .
+408: [My] My daddy is the one who spent all of his money , sent me past thirteen confederate states of segregated colleges to go to integrated Princeton University .
+408: [me] My daddy is the one who spent all of his money , sent me past thirteen confederate states of segregated colleges to go to integrated Princeton University .
+413: [I] I 'm sure you 've read it .
+415: [I] I 'm sure you 've read it .
+418: [My] My dad has a son .
+419: [I] I 'm not much , but I speak English , and I have some recollection of historical facts , and that is true across the boards .
+420: [I] She pillories , as I understand it , Mr. Smyer who , in those days , was on the wrong side of the issue .
+442: [I] I 'm not making that analogy more than it is , but that 's the kind of dramatic change , a massive societal change is what you were dealing with .
+447: [my] Of course , my view of all of that is that you 're talking maybe within a generation , and that was a radical change , and it is a radical change .
+448: [me] It seems to me that as long as people are making a living and gaining attention on the issue that it will remain an issue .
+452: [me] Until we get to the point where the leadership , where the people my age are gone , segregation to me was n't part of my life really .
+452: [my] Until we get to the point where the leadership , where the people my age are gone , segregation to me was n't part of my life really .
+453: [my] What they call the `` N '' word now as never allowed in my house , for instance .
+456: [I] But other than that , I just went about my business .
+456: [my] But other than that , I just went about my business .
+457: [I] I just did n't think about it .
+458: [my] It just was n't part of my life .
+459: [I] I think , however , if I were my age and I had been segregated until I was twenty-two years old I doubt that I would forget it .
+459: [my] I think , however , if I were my age and I had been segregated until I was twenty-two years old I doubt that I would forget it .
+460: [I] I have a lot of friends who were segregated for their lifetime , and they have a lot of equanimity , but it 's a different memory .
+462: [I] I think we 've got to have the generations who remember living in a segregated society in the South for it to pass into history completely is my opinion of it .
+462: [my] I think we 've got to have the generations who remember living in a segregated society in the South for it to pass into history completely is my opinion of it .
+464: [I] I 've forgotten what you asked .
+467: [me] You did n't start me off .
+469: [I] You asked me if I knew anybody .
+469: [me] You asked me if I knew anybody .
+473: [I] He tried desperately to get me to go to Virginia when I started college .
+473: [me] He tried desperately to get me to go to Virginia when I started college .
+474: [I] I loved him , and he was active , gosh , until he died , way late .
+477: [I] The moment I graduated from Princeton University , do you know what I was doing when they called my name on Cannon Green ?
+477: [my] The moment I graduated from Princeton University , do you know what I was doing when they called my name on Cannon Green ?
+479: [I] I was sitting under a shade tree in Avondale eating a sandwich with two guys .
+481: [I] I was a garbage man the summer between Princeton and law school .
+481: [a garbage man] I was a garbage man the summer between Princeton and law school .
+482: [I] My dad always exercised all of his considerable influence and connections to not only get me a summer job that started -- I 'd get off the red-eye flight at four in the morning , and would always start to work at six-thirty that same morning , and that was my summer vacation .
+482: [My] My dad always exercised all of his considerable influence and connections to not only get me a summer job that started -- I 'd get off the red-eye flight at four in the morning , and would always start to work at six-thirty that same morning , and that was my summer vacation .
+482: [me] My dad always exercised all of his considerable influence and connections to not only get me a summer job that started -- I 'd get off the red-eye flight at four in the morning , and would always start to work at six-thirty that same morning , and that was my summer vacation .
+482: [my] My dad always exercised all of his considerable influence and connections to not only get me a summer job that started -- I 'd get off the red-eye flight at four in the morning , and would always start to work at six-thirty that same morning , and that was my summer vacation .
+483: [me] But he would always exercise his influence and get me the dirtiest , hardest , nastiest , lowest paying job in the City of Birmingham .
+484: [I] That summer George Seibels was , I think , president of the city council .
+485: [I] I do n't think he was mayor yet .
+489: [I] I and the crew were getting the mayor 's garbage and putting it in the back of the truck .
+491: [I] The night before my dad and I had been talking .
+491: [my] The night before my dad and I had been talking .
+494: [I] The day or two before the city council had passed an increase in the -- I 've forgotten which it was .
+496: [My] My dad thought they should have done it the other way around because the airlines could avoid it by gassing up in Atlanta or somewhere else .
+497: [I] He and I had been talking about the increase in the millage on the gasoline as opposed to the increase in the landing fees and the philosophy .
+503: [I] I very timidly raised my hand , just as innocent as you can be .
+503: [my] I very timidly raised my hand , just as innocent as you can be .
+504: [my] He said , `` Yes , my boy . ''
+505: [I] He did n't recognize me because in the first place it was misty , and in the second place I was covered with garbage .
+505: [me] He did n't recognize me because in the first place it was misty , and in the second place I was covered with garbage .
+506: [I] I said , `` Yes , sir , mayor .
+507: [me] Can you explain to me why you increased the mileage on the gasoline as opposed to the landing fees because -- '' for several reasons we 'd talked about .
+509: [I] He looked like he 'd been hit with a wet fish , and I realized in a flash that it must have gone through his mind , `` Who on earth is hiring these garbage men ? '' His response was , `` Bless you boys , '' and he spun on his heels and went back in the house .
+510: [I] But George Seibels was one of the people of good will that I 'm talking about .
+514: [I] I do n't know maybe the details .
+523: [my] That is , in part , why my dad was frustrated because nobody could do anything with old Bull , and that , in large measure , is what lead to the change in the form of city government .
+524: [I] So the answer to your question , `` Do I know any of the details of the change of the police , '' I guess I have known , but it does n't really matter because all of those developments and changes in that period would be responsive to the change in the form of government as opposed to any real reformist movement in the city .
+532: [My] My daddy was mayor at the time that that was going on .
+533: [I] Then and up until his death David Vann , my dad , and I always remained very good friends .
+533: [my] Then and up until his death David Vann , my dad , and I always remained very good friends .
+534: [I] That idea that political differences would segue into personal differences -- I guess maybe it 's a lawyer frame of mind , or at least was then -- that you could have honestly held disagreements on important issues and still have a lot of admiration and respect for each other as a person .
+535: [I] That 's the way I feel about David Vann .
+540: [I] The Civil Rights Institute , I do n't know what your question is .
+541: [my] What about it ? Is it what are my thoughts about it and the like ?
+544: [I] I think that the Civil Rights Institute is a very good thing because it 's a museum , and what is a museum for ? It 's to preserve history .
+545: [I] I believe that we must make the Civil Rights Movement history rather than current events to lay that issue to rest .
+546: [I] I think it 's important that we lay it to rest .
+548: [I] I went to visit some aging cousins of mine who had blue hair and were in their 90s twenty years ago .
+551: [My] My multi-great grand daddy rode off to the Revolutionary War from Jonesboro , Georgia , so we are from the South .
+553: [I] I guess they 're all dead now .
+554: [I] I have n't had any contact with them , but they were made twenty years ago .
+567: [I] I do n't understand the question .
+581: [my] Now the truth of the matter is , as my dad always said until the day he died , `` They talk about the good old days .
+585: [I] I guess that 's the answer .
+592: [I] I do n't know whether I answered it .
+598: [I] As far as I 'm concerned Bernard Kincaid is not a good administrator .
+604: [my] For my book one 's better than the other for the job .
+605: [I] That 's the best I can tell you .
+609: [I] I do n't know what you 're interested in .
+611: [I] To that extent I 've tried to participate .
+612: [me] Tell me what particular questions you have , what thoughts you have ?
+615: [me] A change in what respect ? Tell me the change .
+618: [I] Sixty-three to seventy-seven , I 'll tell you .
+626: [I] You know what I 'm talking about .
+628: [I] I was at Princeton from Birmingham in 1961 when the picture of the dog was on the front page of The New York Times .
+
+"controlling Birmingham"
+Birmingham [LOCATION]
+  2: [Birmingham] At his law firm Dominic , Fletcher , Yielding , Wood and Lloyd in Birmingham , Alabama .
+ 19: [Birmingham] He was born at the site of Phillips High School downtown before Birmingham was a city .
+ 19: [a city] He was born at the site of Phillips High School downtown before Birmingham was a city .
+ 23: [Birmingham] I was raised in Birmingham , but we lived in Chicago and Washington , D. C. when my dad was in the FBI .
+ 38: [Birmingham] In 1965 I was in law school , and my dad had left the office of mayor of Birmingham and not run for a second term .
+ 54: [Birmingham] I came back to Birmingham to get my dad and our files .
+ 97: [Birmingham] Our theme of the case was that Bob Chambliss was just a mean , racist old man , as there were 30,000 of in Birmingham in 1963 , that he was rough talking , that he was rough , and that he was mean , but that did n't mean that he did this horrible crime .
+100: [Birmingham] He had quite a history of violence and the like around Birmingham .
+176: [Birmingham] So how was the guilty verdict received in Birmingham in 77 ? Do you feel like there was relief ?
+179: [Birmingham] That was the first of the times , totally undeserved nonetheless true , Birmingham had been pilloried in the media of the world , and there was this collective societal desire to purge ourselves of this demon , so I think it probably was well received at the time .
+232: [Birmingham] I went the front door , and it was one of those clear , rare , low humidity Birmingham days , in the 70s maybe .
+324: [Birmingham] I mean , bear in mind , I had three great grand daddies rode off from this valley before Birmingham was a city .
+324: [a city] I mean , bear in mind , I had three great grand daddies rode off from this valley before Birmingham was a city .
+330: [Birmingham] He was mayor of Birmingham .
+336: [a city] I 've known everybody in town , if that 's possible in a city this size , my whole life .
+348: [Birmingham] When you were a young man of some promise with a daddy who would vouch for you , and you knew those people , that 's the way those things worked even in Birmingham , and certainly throughout the South in those days .
+383: [Birmingham] Birmingham and Atlanta were about the same size , and his hope , his whole goal -- he was in great competition with the mayor of Atlanta .
+383: [his whole goal] Birmingham and Atlanta were about the same size , and his hope , his whole goal -- he was in great competition with the mayor of Atlanta .
+386: [Birmingham] In fact , Birmingham was running ahead .
+387: [Birmingham] Geographically it makes more sense to go to Birmingham than to Atlanta for the airlines , and this civil rights movement was just killing Birmingham , just killing us .
+387: [it] Geographically it makes more sense to go to Birmingham than to Atlanta for the airlines , and this civil rights movement was just killing Birmingham , just killing us .
+388: [Birmingham] My dad was so agonized over it , and he was also so very worried about the potential for violence in Birmingham .
+388: [it] My dad was so agonized over it , and he was also so very worried about the potential for violence in Birmingham .
+389: [it] He talked to the president about it .
+391: [Birmingham] His reasoning was that knowing the people of Birmingham that they would literally die , that there would be tremendous unrest if you forced it on the children , boom , from scratch .
+391: [it] His reasoning was that knowing the people of Birmingham that they would literally die , that there would be tremendous unrest if you forced it on the children , boom , from scratch .
+402: [Birmingham] We need a symbol , and Birmingham has got to be it because Bull Connor is so intractable .
+402: [it] We need a symbol , and Birmingham has got to be it because Bull Connor is so intractable .
+480: [Birmingham] The three of us were running behind a City of Birmingham garbage truck .
+483: [Birmingham] But he would always exercise his influence and get me the dirtiest , hardest , nastiest , lowest paying job in the City of Birmingham .
+495: [Birmingham] They 'd either passed an increase in the gasoline fuel tax in Birmingham as opposed to an increase in the landing fees .
+516: [Birmingham] Bear in mind , we changed the form of city government from the commission form to the mayor/council form in what , '62 or ' 63 ? That 's where Albert Boutwell came from , and that resulted in a radical , radical change in the way government was operated in the whole construction of the city of Birmingham .
+522: [controlling Birmingham] That 's why Bull Connor as police commissioner was almost unbridled in what he could do in controlling Birmingham .
+528: [Birmingham] All good young lawyers then were part of the change of form of government and instrumental in it , and had figured out that the only way to get rid of Bull Connor and that kind of approach to policing in Birmingham was to change the form of government and put it in the hands of the council .
+558: [Birmingham] So Birmingham has changed now , very much for the better ?
+561: [Birmingham] Oh heavenly days ! Birmingham operated well within budget in those days .
+562: [Birmingham] Now Birmingham is virtually broke .
+578: [Birmingham] You used to come over the mountain , and you could tell how the economic life in Birmingham was by looking into the valley .
+594: [Birmingham] We were talking about things fading into history , and I was just thinking about Birmingham today .
+614: [Birmingham] My focus is on the trial , but I 'm just trying to gauge change in Birmingham .
+620: [Birmingham] In 1963 the populous of Birmingham was resistant .
+621: [Birmingham] The population of Birmingham was very , very antagonistic toward change .
+623: [Birmingham] In 1977 the population of Birmingham was ready to capitulate , was ready , `` Please , leave us alone .
+625: [Birmingham] Until this good day the idea of Birmingham raises certain specters in people 's minds .
+627: [Birmingham] You 've been to Harvard from Birmingham .
+630: [Birmingham] But yeah , in 1977 , yes , the people of Birmingham were desirous of laying it to rest .
+631: [Birmingham] In 1963 the people of Birmingham were desirous of fighting to the last man .
+632: [Birmingham] In Birmingham the War Between the States passed into history between '63 and ' 77 .
+
+"Alabama"
+Alabama [LOCATION]
+  2: [Alabama] At his law firm Dominic , Fletcher , Yielding , Wood and Lloyd in Birmingham , Alabama .
+ 28: [Alabama] I wanted to play for the new coach at Alabama .
+ 29: [Alabama] Coach Paul Bryant had been there a couple of years and had a couple of my teammates with him , so I went down to talk with him about going to Alabama .
+ 34: [Alabama] I came back to Alabama to law school .
+
+"Willoughby Anderson"
+Willoughby Anderson [PERSON]
+  3: [Willoughby Anderson] Today 's date is Tuesday , May 27 , 2003 , and the interviewer is Willoughby Anderson .
+  8: [me] Okay , so maybe you can tell me a little bit about your childhood and growing up ?
+ 36: [me] So tell me a little bit about when you first started practicing law .
+124: [Willoughby] Willoughby , I try not to be , and I know that in retrospect it 's not as I remember it , but from this vantage point I swear his face shimmered with evil as I looked at it .
+124: [his] Willoughby , I try not to be , and I know that in retrospect it 's not as I remember it , but from this vantage point I swear his face shimmered with evil as I looked at it .
+125: [he] It was at that moment that I knew to a certainty he was the vilest , most evil , guiltiest son of a gun I had ever touched or represented .
+125: [the vilest , most evil , guiltiest son of a gun I had ever touched or represented] It was at that moment that I knew to a certainty he was the vilest , most evil , guiltiest son of a gun I had ever touched or represented .
+126: [he] Somewhere deep inside me , when he was looking up at me and said , `` I 'm not going , '' -- we were in front of the entire world -- I knew right that moment I was n't going spend the rest of my life defending and cashing myself , and bleeding my heart out for people like this any more .
+127: [he] At any rate , he insisted on not testifying .
+128: [That] That would n't have been so bad , and then to compound things he insisted on calling some of his sorry old buddies to testify as to his character , and the net result of that was we did n't have our story , and yet he opened the door so Bill Baxley could just nail him with all this other reputation stuff .
+128: [he] That would n't have been so bad , and then to compound things he insisted on calling some of his sorry old buddies to testify as to his character , and the net result of that was we did n't have our story , and yet he opened the door so Bill Baxley could just nail him with all this other reputation stuff .
+128: [his] That would n't have been so bad , and then to compound things he insisted on calling some of his sorry old buddies to testify as to his character , and the net result of that was we did n't have our story , and yet he opened the door so Bill Baxley could just nail him with all this other reputation stuff .
+128: [that] That would n't have been so bad , and then to compound things he insisted on calling some of his sorry old buddies to testify as to his character , and the net result of that was we did n't have our story , and yet he opened the door so Bill Baxley could just nail him with all this other reputation stuff .
+129: [he] Naturally , he was convicted .
+130: [you that was as just a verdict as there ever was in the whole history of the world] I did the absolute , dead level best I could to prevent it , but I 'm telling you that was as just a verdict as there ever was in the whole history of the world .
+187: [I] I went to the Blanton trial and listened to the tapes , the FBI tapes , and I was wondering if you had an opinion about whether or not those should have gone in ?
+198: [I] I think so , yeah .
+218: [I] I would .
+219: [I] I would .
+261: [I] What else about the trial ? I 've talked to Mr. Baxley a little bit about this , but why do you think that Chambliss was n't tried in 63 , or in the few years right after the time ?
+290: [I] What else about the trial ? What question have n't I asked you about it ?
+318: [I] I have .
+340: [I] Nothing , I 'm just thinking about -- .
+404: [I] I 've never heard that story .
+405: [that] No , you have n't , because that does n't fit in with history .
+414: [I] I have .
+465: [I] No , I think that 's great .
+466: [I] I think I started you off on Operation New Birmingham .
+470: [I] Well , what about George Seibels ? I 've been doing some research on him .
+511: [I] Well , I know he did a lot of work on reforming the police department .
+512: [He] He did .
+513: [I] I do n't know if you can speak to that or not , reforming things .
+525: [I] What about David Vann ? I guess he 's the next mayor .
+539: [I] What about the Civil Rights Institute ? I know David Vann was instrumental in that and also Richard Arrington .
+593: [I] I was just wondering .
+594: [I] We were talking about things fading into history , and I was just thinking about Birmingham today .
+606: [I] Well , is there anything else that I have n't asked you ?
+613: [I] Well , I think that that 's it .
+614: [I] My focus is on the trial , but I 'm just trying to gauge change in Birmingham .
+614: [My] My focus is on the trial , but I 'm just trying to gauge change in Birmingham .
+
+"the Asa Carters , and Ed Fields"
+Asa Carters [ORGANIZATION], Ed Fields [PERSON]
+446: [the Asa Carters , and Ed Fields] He would fall in a category with the J. B. Stoners , and the Asa Carters , and Ed Fields , and the intractable people .
+446: [the intractable people] He would fall in a category with the J. B. Stoners , and the Asa Carters , and Ed Fields , and the intractable people .
+
+"a PT boat skipper in the South Pacific"
+South Pacific [LOCATION]
+ 11: [a PT boat skipper in the South Pacific] I remember very well my dad was a PT boat skipper in the South Pacific during World War II .
+ 11: [my dad] I remember very well my dad was a PT boat skipper in the South Pacific during World War II .
+ 13: [he] After the war he came back and went to law school on the GI Bill .
+ 14: [He] He and my mother were good card players and supplemented the GI Bill by playing cards at night .
+ 15: [he] The truth of the matter is , although he would never admit it , mother was a very fine card player .
+ 16: [He] He would leave her sleeping in the morning and take me to law school .
+ 20: [my dad 's] I was raised here during the war with my dad 's five sisters and my mother 's mother and daddy .
+ 23: [my dad] I was raised in Birmingham , but we lived in Chicago and Washington , D. C. when my dad was in the FBI .
+ 38: [my dad] In 1965 I was in law school , and my dad had left the office of mayor of Birmingham and not run for a second term .
+ 39: [He] He had gone back to the private practice of law , and was offered the defense of Collin Leroy Wilkins , and W. O. Eaton , and Robert Thomas who were Klansmen charged with killing Viola Liuzzo on the Selma to Montgomery march .
+ 40: [he] At that time he was in the position where he could have gone with industry here as a result of a good eastern education and good fortune in law school .
+ 48: [My dad] My dad and I went to London .
+ 48: [My dad and I] My dad and I went to London .
+ 54: [my dad] I came back to Birmingham to get my dad and our files .
+ 55: [him] We got to Memphis on Sunday night to do some final things , take him a suit of clothes we 'd gotten for him .
+ 56: [he] We just got a note that he had changed lawyers , so naturally we packed up and left the next morning .
+ 57: [he] By Thursday he was calling saying , `` I made the worst mistake I ever made in my life .
+ 83: [my dad] By then I was sitting in the front chair , and my dad was slowing down some .
+221: [my dad] They came in with the conviction , and I and Judge Mike Bolen who is our probate judge here was a partner , sat at the table , my brother Tom , and my dad and I conferred after the immediate flurry after the verdict came down .
+351: [my dad] I was in college , but I would carry messages for Governor Wallace or my dad , whatever it was .
+372: [My dad] My dad and Jack Kennedy had a real affinity for each other .
+377: [My dad] My dad was still mayor .
+378: [He] He was not mayor in ' 63 .
+380: [my dad] But my dad just agonized .
+381: [He] He wanted so desperately to keep the peace , and solve the problems , and get on about the business .
+382: [He] He thought air travel was the key to it .
+383: [he] Birmingham and Atlanta were about the same size , and his hope , his whole goal -- he was in great competition with the mayor of Atlanta .
+383: [his] Birmingham and Atlanta were about the same size , and his hope , his whole goal -- he was in great competition with the mayor of Atlanta .
+388: [My dad] My dad was so agonized over it , and he was also so very worried about the potential for violence in Birmingham .
+388: [he] My dad was so agonized over it , and he was also so very worried about the potential for violence in Birmingham .
+389: [He] He talked to the president about it .
+390: [he] I do n't know if it was the summer of '61 or ' 62 , but he asked the president if they could make peace , and he suggested that this summer to integrate the golf courses .
+391: [His] His reasoning was that knowing the people of Birmingham that they would literally die , that there would be tremendous unrest if you forced it on the children , boom , from scratch .
+418: [My dad] My dad has a son .
+482: [My dad] My dad always exercised all of his considerable influence and connections to not only get me a summer job that started -- I 'd get off the red-eye flight at four in the morning , and would always start to work at six-thirty that same morning , and that was my summer vacation .
+483: [he] But he would always exercise his influence and get me the dirtiest , hardest , nastiest , lowest paying job in the City of Birmingham .
+483: [his] But he would always exercise his influence and get me the dirtiest , hardest , nastiest , lowest paying job in the City of Birmingham .
+491: [my dad] The night before my dad and I had been talking .
+491: [my dad and I] The night before my dad and I had been talking .
+493: [he] It had always been something he was interested in for the city .
+496: [My dad] My dad thought they should have done it the other way around because the airlines could avoid it by gassing up in Atlanta or somewhere else .
+497: [He] He and I had been talking about the increase in the millage on the gasoline as opposed to the increase in the landing fees and the philosophy .
+523: [my dad] That is , in part , why my dad was frustrated because nobody could do anything with old Bull , and that , in large measure , is what lead to the change in the form of city government .
+533: [my dad] Then and up until his death David Vann , my dad , and I always remained very good friends .
+581: [he] Now the truth of the matter is , as my dad always said until the day he died , `` They talk about the good old days .
+581: [my dad] Now the truth of the matter is , as my dad always said until the day he died , `` They talk about the good old days .
+
+"the South Pacific"
+South Pacific [LOCATION]
+ 11: [the South Pacific] I remember very well my dad was a PT boat skipper in the South Pacific during World War II .
+348: [the South] When you were a young man of some promise with a daddy who would vouch for you , and you knew those people , that 's the way those things worked even in Birmingham , and certainly throughout the South in those days .
+435: [the South] The people of good will all knew that history , that right , whether you 're talking morally , intellectually , politically or in any other respect , knew that the segregated system in the South could not stand , and the people of good will all were trying to find a way to accomplish it without civil unrest .
+551: [the South] My multi-great grand daddy rode off to the Revolutionary War from Jonesboro , Georgia , so we are from the South .
+
+"the GI Bill"
+Bill [PERSON]
+ 13: [the GI Bill] After the war he came back and went to law school on the GI Bill .
+ 14: [the GI Bill] He and my mother were good card players and supplemented the GI Bill by playing cards at night .
+102: [Bill Baxley] We knew that Bill Baxley was just going to eat him alive with these other things , because by putting him up there that would open the door to many of these other things , but that was all right .
+102: [him] We knew that Bill Baxley was just going to eat him alive with these other things , because by putting him up there that would open the door to many of these other things , but that was all right .
+104: [he] We figured that he would be mean and would show how mean he was .
+128: [Bill Baxley] That would n't have been so bad , and then to compound things he insisted on calling some of his sorry old buddies to testify as to his character , and the net result of that was we did n't have our story , and yet he opened the door so Bill Baxley could just nail him with all this other reputation stuff .
+128: [him] That would n't have been so bad , and then to compound things he insisted on calling some of his sorry old buddies to testify as to his character , and the net result of that was we did n't have our story , and yet he opened the door so Bill Baxley could just nail him with all this other reputation stuff .
+182: [Bill Baxley] Bill Baxley left the office of attorney general and left public life at that time .
+215: [Mr. Baxley] Mr. Baxley told a story that you had told him about going and telling Chambliss ' wife -- .
+215: [him] Mr. Baxley told a story that you had told him about going and telling Chambliss ' wife -- .
+258: [Bill Baxley] He was n't there , but Bill Baxley can tell a story , I can assure you .
+289: [Bill Baxley 's] I would defer to Bill Baxley 's assessment of it as opposed to mine , but I can think from scratch of a lot of good reasons why it would n't have been prosecuted then .
+315: [Bill Baxley] We had no objection to it , and Bill did n't , Bill Baxley did n't and the judge on request , and over no objection .
+
+"the only general evangelist the North Alabama Methodists ever had"
+North Alabama [LOCATION]
+ 18: [My grand daddy] My grand daddy was the only general evangelist the North Alabama Methodists ever had .
+ 18: [the only general evangelist the North Alabama Methodists ever had] My grand daddy was the only general evangelist the North Alabama Methodists ever had .
+ 19: [He] He was born at the site of Phillips High School downtown before Birmingham was a city .
+325: [My grand daddy] My grand daddy was a preacher .
+325: [a preacher] My grand daddy was a preacher .
+
+"the FBI"
+FBI [ORGANIZATION]
+ 23: [the FBI] I was raised in Birmingham , but we lived in Chicago and Washington , D. C. when my dad was in the FBI .
+187: [FBI] I went to the Blanton trial and listened to the tapes , the FBI tapes , and I was wondering if you had an opinion about whether or not those should have gone in ?
+265: [the FBI] In the first place , the FBI had much of the evidence , and the FBI in those days just did n't cooperate with local police .
+272: [FBI] I would think in part the lack of access to FBI information .
+
+"Woodlawn High School"
+Woodlawn High School [ORGANIZATION]
+ 24: [Woodlawn High School] Then we came back and I went to Woodlawn High School here , and from there went to Princeton .
+ 26: [Woodlawn High School] I supposed I was the worst athlete that every started at Woodlawn High School , but everybody got scholarships .
+
+"Princeton"
+Princeton [LOCATION]
+ 24: [Princeton] Then we came back and I went to Woodlawn High School here , and from there went to Princeton .
+ 33: [Princeton] So that 's how I wound up at Princeton .
+239: [Princeton] She was lying there on the sofa and , I do n't know , maybe I read too much great literature at Princeton , but I had these pictures in my mind .
+417: [Princeton] Senator Jim Simpson has two fine sons here , two fine lawyer sons , Henry a graduate of Vanderbilt and Jimmy a graduate of Princeton .
+481: [Princeton] I was a garbage man the summer between Princeton and law school .
+628: [Princeton] I was at Princeton from Birmingham in 1961 when the picture of the dog was on the front page of The New York Times .
+
+"George Seibels"
+George Seibels [PERSON]
+470: [George Seibels] Well , what about George Seibels ? I 've been doing some research on him .
+470: [him] Well , what about George Seibels ? I 've been doing some research on him .
+484: [George Seibels] That summer George Seibels was , I think , president of the city council .
+485: [he] I do n't think he was mayor yet .
+486: [He] He may have been mayor .
+487: [He] He has a very nice home there right on the edge of -LRB- -RRB- , right off Montevallo Road .
+488: [he] It was early morning , early morning , and he 's got a little hill maybe two feet high leading up to his curb .
+488: [his] It was early morning , early morning , and he 's got a little hill maybe two feet high leading up to his curb .
+510: [George Seibels] But George Seibels was one of the people of good will that I 'm talking about .
+511: [he] Well , I know he did a lot of work on reforming the police department .
+517: [George Seibels] So to some extent , all of those developments then George Seibels , and Albert Boutwell , and the first council , they were having to restructure all the city government .
+
+"Vanderbilt"
+Vanderbilt [LOCATION]
+ 27: [Vanderbilt] Mine , of course , were to places like Sewanee and Ripon College , and I was invited to walk on at Vanderbilt .
+417: [Vanderbilt] Senator Jim Simpson has two fine sons here , two fine lawyer sons , Henry a graduate of Vanderbilt and Jimmy a graduate of Princeton .
+
+"Paul Bryant"
+Paul Bryant [PERSON]
+ 29: [Paul Bryant] Coach Paul Bryant had been there a couple of years and had a couple of my teammates with him , so I went down to talk with him about going to Alabama .
+ 29: [him] Coach Paul Bryant had been there a couple of years and had a couple of my teammates with him , so I went down to talk with him about going to Alabama .
+ 30: [He] He said , `` Artie , you can walk on here , but you 're too little to play for me .
+
+"a City of Birmingham garbage truck"
+Birmingham [LOCATION]
+480: [a City of Birmingham garbage truck] The three of us were running behind a City of Birmingham garbage truck .
+483: [the City of Birmingham] But he would always exercise his influence and get me the dirtiest , hardest , nastiest , lowest paying job in the City of Birmingham .
+493: [the city] It had always been something he was interested in for the city .
+516: [the city of Birmingham] Bear in mind , we changed the form of city government from the commission form to the mayor/council form in what , '62 or ' 63 ? That 's where Albert Boutwell came from , and that resulted in a radical , radical change in the way government was operated in the whole construction of the city of Birmingham .
+524: [the city] So the answer to your question , `` Do I know any of the details of the change of the police , '' I guess I have known , but it does n't really matter because all of those developments and changes in that period would be responsive to the change in the form of government as opposed to any real reformist movement in the city .
+
+"Birmingham garbage truck"
+Birmingham [LOCATION]
+480: [Birmingham garbage truck] The three of us were running behind a City of Birmingham garbage truck .
+489: [the truck] I and the crew were getting the mayor 's garbage and putting it in the back of the truck .
+502: [the truck] Do any of you have any questions about your city government ? '' We 're back there emptying the garbage into the back of the truck .
+
+"lowest paying job in the City of Birmingham"
+Birmingham [LOCATION]
+483: [lowest paying job in the City of Birmingham] But he would always exercise his influence and get me the dirtiest , hardest , nastiest , lowest paying job in the City of Birmingham .
+483: [nastiest] But he would always exercise his influence and get me the dirtiest , hardest , nastiest , lowest paying job in the City of Birmingham .
+
+"mayor of Birmingham"
+Birmingham [LOCATION]
+ 38: [mayor of Birmingham] In 1965 I was in law school , and my dad had left the office of mayor of Birmingham and not run for a second term .
+330: [mayor of Birmingham] He was mayor of Birmingham .
+
+"Montgomery"
+Montgomery [LOCATION]
+ 39: [Montgomery] He had gone back to the private practice of law , and was offered the defense of Collin Leroy Wilkins , and W. O. Eaton , and Robert Thomas who were Klansmen charged with killing Viola Liuzzo on the Selma to Montgomery march .
+449: [Montgomery] Morris Dees in Montgomery is a good example .
+
+"Viola Liuzzo on the Selma"
+Viola Liuzzo [PERSON], Selma [LOCATION]
+ 39: [Viola Liuzzo on the Selma] He had gone back to the private practice of law , and was offered the defense of Collin Leroy Wilkins , and W. O. Eaton , and Robert Thomas who were Klansmen charged with killing Viola Liuzzo on the Selma to Montgomery march .
+ 46: [Viola Liuzzo] Got an acquittal in the killing of Viola Liuzzo .
+ 47: [he] In those days there were only the three television channels , and lawyers were strictly forbidden to advertise , and just the turn of the cards and the way fate worked , we had a fairly national law practice which lead to James Earl Ray calling us from London when he was arrested .
+171: [Liuzzo] We were trying those cases before there were any cases , in the Chambliss case , the Ray case , the Liuzzo case .
+172: [Liuzzo] My gracious , the Liuzzo case had the attorney general of the United States down here .
+174: [Liuzzo] In the Liuzzo case , Eugene Thomas was standing in a filling station in Bessemer filling his car up with gasoline , and he heard the president of the United States come on the radio , announce his name , and announce that there was an arrest warrant for him That 'll curl your hair .
+174: [he] In the Liuzzo case , Eugene Thomas was standing in a filling station in Bessemer filling his car up with gasoline , and he heard the president of the United States come on the radio , announce his name , and announce that there was an arrest warrant for him That 'll curl your hair .
+
+"Eugene Thomas"
+Eugene Thomas [PERSON]
+ 44: [Eugene Thomas] Then we tried Eugene Thomas several months later .
+174: [Eugene Thomas] In the Liuzzo case , Eugene Thomas was standing in a filling station in Bessemer filling his car up with gasoline , and he heard the president of the United States come on the radio , announce his name , and announce that there was an arrest warrant for him That 'll curl your hair .
+174: [his] In the Liuzzo case , Eugene Thomas was standing in a filling station in Bessemer filling his car up with gasoline , and he heard the president of the United States come on the radio , announce his name , and announce that there was an arrest warrant for him That 'll curl your hair .
+
+"London"
+London [LOCATION]
+ 47: [London] In those days there were only the three television channels , and lawyers were strictly forbidden to advertise , and just the turn of the cards and the way fate worked , we had a fairly national law practice which lead to James Earl Ray calling us from London when he was arrested .
+ 48: [London] My dad and I went to London .
+ 49: [That] That was in 1968 , and undertook to represent James Earl Ray .
+
+"James Earl Ray calling us from London when he was arrested"
+James Earl Ray [PERSON], London [LOCATION]
+ 47: [James Earl Ray calling us from London when he was arrested] In those days there were only the three television channels , and lawyers were strictly forbidden to advertise , and just the turn of the cards and the way fate worked , we had a fairly national law practice which lead to James Earl Ray calling us from London when he was arrested .
+ 49: [James Earl Ray] That was in 1968 , and undertook to represent James Earl Ray .
+ 51: [James Earl Ray] James Earl Ray changed lawyers on Sunday night before we were due to go to trial on Monday .
+ 52: [him in Memphis] I had spent all day Friday with him in Memphis .
+ 60: [James Earl Ray] We would not go back , and ultimately in a bizarre turn of events , the lawyer from Texas had been waiting , and the judge allowed him to spend the weekend in the cell with James Earl Ray .
+ 62: [Ray into changing lawyers , and by Thursday Ray] Talked Ray into changing lawyers , and by Thursday Ray was calling us to come back .
+ 62: [Thursday Ray] Talked Ray into changing lawyers , and by Thursday Ray was calling us to come back .
+ 63: [Ray] Of course , ultimately , the lawyer did pressure him into pleading guilty which Ray renounced immediately .
+ 64: [James Earl Ray] A sidelight , not what you 're here for , but I 'm reasonably convinced James Earl Ray did not fire the shot the killed Dr. King .
+ 88: [James Earl Ray] For instance , in the James Earl Ray case our theory and our theme was that Ray could not have acted alone .
+ 88: [Ray] For instance , in the James Earl Ray case our theory and our theme was that Ray could not have acted alone .
+ 90: [Ray] In the Ray case , of course we had n't seen the panel yet , but we had pretty well come to the conclusion that we were going to strike a jury looking toward an all black jury if we could possibly get it , thinking that in those days the white establishment in Memphis had an unreasonable fear of repercussions if there were no conviction and wanted to close the book , and our idea of it was do n't close the book .
+ 93: [Ray] That was ten years after the Ray case , nine years .
+109: [Ray] Just like in the Ray case I try not to be a conspiracy nut .
+171: [Ray] We were trying those cases before there were any cases , in the Chambliss case , the Ray case , the Liuzzo case .
+
+"Martin Luther King"
+Martin Luther King [PERSON]
+ 50: [Martin Luther King] As we speak now I 'm the only person alive who ever prepared the Martin Luther King case for trial , and it was our turn of events .
+ 64: [Dr. King] A sidelight , not what you 're here for , but I 'm reasonably convinced James Earl Ray did not fire the shot the killed Dr. King .
+ 89: [Dr. King] The state was stuck with the theory that James Earl Ray acting alone fired the shot that killed Dr. King .
+397: [Martin Luther King] His brother Bobby , and Martin Luther King , and he , they needed an example .
+
+"the Martin Luther King case for trial"
+Martin Luther King [PERSON]
+ 50: [it] As we speak now I 'm the only person alive who ever prepared the Martin Luther King case for trial , and it was our turn of events .
+ 50: [our turn of events] As we speak now I 'm the only person alive who ever prepared the Martin Luther King case for trial , and it was our turn of events .
+ 50: [the Martin Luther King case for trial] As we speak now I 'm the only person alive who ever prepared the Martin Luther King case for trial , and it was our turn of events .
+ 59: [this case for me] Please come back and try this case for me . ''
+
+"Memphis"
+Memphis [LOCATION]
+ 52: [Memphis] I had spent all day Friday with him in Memphis .
+ 90: [Memphis] In the Ray case , of course we had n't seen the panel yet , but we had pretty well come to the conclusion that we were going to strike a jury looking toward an all black jury if we could possibly get it , thinking that in those days the white establishment in Memphis had an unreasonable fear of repercussions if there were no conviction and wanted to close the book , and our idea of it was do n't close the book .
+
+"the lawyer from Texas"
+Texas [LOCATION]
+ 60: [the lawyer from Texas] We would not go back , and ultimately in a bizarre turn of events , the lawyer from Texas had been waiting , and the judge allowed him to spend the weekend in the cell with James Earl Ray .
+ 61: [He] He got in there right after I left on Friday .
+ 63: [him] Of course , ultimately , the lawyer did pressure him into pleading guilty which Ray renounced immediately .
+ 63: [the lawyer] Of course , ultimately , the lawyer did pressure him into pleading guilty which Ray renounced immediately .
+
+"Bob Chambliss '"
+Bob Chambliss [PERSON]
+ 76: [Chambliss] So how did you come to represent Chambliss ?
+ 82: [Bob Chambliss] You did n't have to undertake your client 's cause to undertake your client 's case , so it was not an unnatural call for us to receive when Bob Chambliss called us to represent him in his case .
+ 82: [him] You did n't have to undertake your client 's cause to undertake your client 's case , so it was not an unnatural call for us to receive when Bob Chambliss called us to represent him in his case .
+ 82: [his] You did n't have to undertake your client 's cause to undertake your client 's case , so it was not an unnatural call for us to receive when Bob Chambliss called us to represent him in his case .
+ 86: [Chambliss] So how did you prepare your defense for Chambliss ?
+ 92: [Chambliss] The Chambliss case was different .
+ 95: [Chambliss] Chambliss always denied having done it , but had no claimed recollection of anything .
+ 97: [Bob Chambliss] Our theme of the case was that Bob Chambliss was just a mean , racist old man , as there were 30,000 of in Birmingham in 1963 , that he was rough talking , that he was rough , and that he was mean , but that did n't mean that he did this horrible crime .
+ 97: [he] Our theme of the case was that Bob Chambliss was just a mean , racist old man , as there were 30,000 of in Birmingham in 1963 , that he was rough talking , that he was rough , and that he was mean , but that did n't mean that he did this horrible crime .
+ 99: [Dynamite Bob] Of course we knew , we 'd gotten it stricken from the indictment , but he was known as Dynamite Bob .
+ 99: [he] Of course we knew , we 'd gotten it stricken from the indictment , but he was known as Dynamite Bob .
+100: [He] He had quite a history of violence and the like around Birmingham .
+101: [he] Our plan was put him up there , let him deny it , let it be seen how mean he was .
+101: [him] Our plan was put him up there , let him deny it , let it be seen how mean he was .
+107: [Dynamite Bob] In fact , Dynamite Bob led me into being judge .
+111: [Chambliss] In the Chambliss case I try not to be spooky or eerie , but let me just tell you an experience I had .
+113: [Bob Chambliss] Our only witness was going to be Bob Chambliss .
+117: [Bob] I stood up , and I looked down at Bob Chambliss , and said , `` Take the stand Bob . ''
+117: [Bob Chambliss] I stood up , and I looked down at Bob Chambliss , and said , `` Take the stand Bob . ''
+119: [He] He looked up at me and said , `` No . ''
+131: [Chambliss] So that 's sort of how we went about the Chambliss case .
+152: [Bob Chambliss] The person that convicted Bob Chambliss was the lady from Detroit who claimed to have seen him that morning sitting in the car .
+159: [Chambliss] It was very , very difficult in the sense that Chambliss could at least credibly deny the memory of it in retrospect .
+160: [he] I believe he remembered everything that he did that night , but the real truth of it , the real truth of it is that it 's harder on the state than the defendant .
+166: [Chambliss] In the Chambliss case with the jury we had , probably the truth of the matter is they could never have acquitted .
+171: [Chambliss] We were trying those cases before there were any cases , in the Chambliss case , the Ray case , the Liuzzo case .
+181: [Chambliss] Well , in the Chambliss case the evidence was such that probably the two of them could well have been prosecuted on that evidence .
+192: [Bob Chambliss] For instance , when we tried Bob Chambliss he could n't get the death penalty .
+192: [he] For instance , when we tried Bob Chambliss he could n't get the death penalty .
+193: [he] If he 'd been tried in 1963 , 64 , or 65 he could have .
+209: [Bob Chambliss] I 've always -- I 'd say not always -- I have said that Bob Chambliss was the most evil person I ever met or dealt with .
+209: [the most evil person I ever met or dealt with] I 've always -- I 'd say not always -- I have said that Bob Chambliss was the most evil person I ever met or dealt with .
+210: [he] I turned down an unpopular case just because of the -- I wo n't tell you what we talked about or what he said -- but Byron De La Beckwith asked me to represent him at one time in the Medger Evers case , and I just could n't do it .
+210: [him] I turned down an unpopular case just because of the -- I wo n't tell you what we talked about or what he said -- but Byron De La Beckwith asked me to represent him at one time in the Medger Evers case , and I just could n't do it .
+215: [Chambliss '] Mr. Baxley told a story that you had told him about going and telling Chambliss ' wife -- .
+220: [Bob Chambliss] We tried the case and , if there is such a thing as a moral victory when your whole defense has been torpedoed as Bob Chambliss insisted on torpedoing his own defense , the jury deliberated one afternoon , was out one night , deliberated several hours , and came back late the following morning .
+220: [his] We tried the case and , if there is such a thing as a moral victory when your whole defense has been torpedoed as Bob Chambliss insisted on torpedoing his own defense , the jury deliberated one afternoon , was out one night , deliberated several hours , and came back late the following morning .
+222: [Bob Chambliss] Tee Chambliss , Bob Chambliss ' wife , was a wonderful , sweet , gentle sole , the antithesis of Bob Chambliss .
+222: [Bob Chambliss '] Tee Chambliss , Bob Chambliss ' wife , was a wonderful , sweet , gentle sole , the antithesis of Bob Chambliss .
+222: [Chambliss , Bob Chambliss ' wife] Tee Chambliss , Bob Chambliss ' wife , was a wonderful , sweet , gentle sole , the antithesis of Bob Chambliss .
+227: [Bob] I 'll go tell Miss Tee , '' because we all loved her as much as we despised Bob .
+247: [Bob] She said , `` What is it ? '' I said , `` Miss Tee , they convicted Bob . ''
+248: [Bob] She said , `` They convicted Bob ? '' And I said , `` Yes , mam . ''
+249: [he] She said , `` When will he be coming home ? '' I said , `` Miss Tee , he wo n't be coming home . ''
+250: [He] She pulled the rag off her head , and she said , `` He wo n't be corning home ? '' And I said , `` No , mam '' She said , `` Do you promise me ? '' I said , `` Yes , mam . ''
+261: [Chambliss] What else about the trial ? I 've talked to Mr. Baxley a little bit about this , but why do you think that Chambliss was n't tried in 63 , or in the few years right after the time ?
+397: [Bobby] His brother Bobby , and Martin Luther King , and he , they needed an example .
+
+"David Vann"
+David Vann [PERSON]
+525: [David Vann] What about David Vann ? I guess he 's the next mayor .
+525: [he] What about David Vann ? I guess he 's the next mayor .
+525: [the next mayor] What about David Vann ? I guess he 's the next mayor .
+526: [David] Yeah , David was the next mayor .
+526: [the next mayor] Yeah , David was the next mayor .
+527: [David Vann] David Vann and his partners , Vernon Patrick and Erskin Smith , were part of the early group that saw the change of form of government .
+527: [his] David Vann and his partners , Vernon Patrick and Erskin Smith , were part of the early group that saw the change of form of government .
+529: [David Vann] David Vann was a very , very , very bright lawyer .
+529: [a very] David Vann was a very , very , very bright lawyer .
+529: [a very , very , very bright lawyer] David Vann was a very , very , very bright lawyer .
+529: [very , very bright lawyer] David Vann was a very , very , very bright lawyer .
+531: [David Vann] David Vann and his friends were proponents of the change of form of government .
+531: [his] David Vann and his friends were proponents of the change of form of government .
+533: [David Vann] Then and up until his death David Vann , my dad , and I always remained very good friends .
+535: [David Vann] That 's the way I feel about David Vann .
+536: [He] He was a very , very astute lawyer , and a very , very astute student of government and its operations .
+536: [a very , very astute lawyer] He was a very , very astute lawyer , and a very , very astute student of government and its operations .
+539: [David Vann] What about the Civil Rights Institute ? I know David Vann was instrumental in that and also Richard Arrington .
+
+"Vernon Patrick"
+Vernon Patrick [PERSON]
+527: [David Vann and his partners] David Vann and his partners , Vernon Patrick and Erskin Smith , were part of the early group that saw the change of form of government .
+527: [Vernon Patrick] David Vann and his partners , Vernon Patrick and Erskin Smith , were part of the early group that saw the change of form of government .
+527: [Vernon Patrick and Erskin Smith] David Vann and his partners , Vernon Patrick and Erskin Smith , were part of the early group that saw the change of form of government .
+
+"the Ray case , the Liuzzo case"
+Ray [PERSON], Liuzzo [PERSON]
+ 90: [the Ray case] In the Ray case , of course we had n't seen the panel yet , but we had pretty well come to the conclusion that we were going to strike a jury looking toward an all black jury if we could possibly get it , thinking that in those days the white establishment in Memphis had an unreasonable fear of repercussions if there were no conviction and wanted to close the book , and our idea of it was do n't close the book .
+ 93: [the Ray case] That was ten years after the Ray case , nine years .
+109: [the Ray case] Just like in the Ray case I try not to be a conspiracy nut .
+171: [the Liuzzo case] We were trying those cases before there were any cases , in the Chambliss case , the Ray case , the Liuzzo case .
+171: [the Ray case] We were trying those cases before there were any cases , in the Chambliss case , the Ray case , the Liuzzo case .
+171: [the Ray case , the Liuzzo case] We were trying those cases before there were any cases , in the Chambliss case , the Ray case , the Liuzzo case .
+172: [the Liuzzo case] My gracious , the Liuzzo case had the attorney general of the United States down here .
+174: [the Liuzzo case] In the Liuzzo case , Eugene Thomas was standing in a filling station in Bessemer filling his car up with gasoline , and he heard the president of the United States come on the radio , announce his name , and announce that there was an arrest warrant for him That 'll curl your hair .
+175: [That] That 'll curl your hair .
+
+"a jury looking toward an all black jury if we could possibly get it , thinking that in those days the white establishment in Memphis had an unreasonable fear of repercussions if there were no conviction and wanted to close the book"
+Memphis [LOCATION]
+ 90: [a jury looking toward an all black jury if we could possibly get it , thinking that in those days the white establishment in Memphis had an unreasonable fear of repercussions if there were no conviction and wanted to close the book] In the Ray case , of course we had n't seen the panel yet , but we had pretty well come to the conclusion that we were going to strike a jury looking toward an all black jury if we could possibly get it , thinking that in those days the white establishment in Memphis had an unreasonable fear of repercussions if there were no conviction and wanted to close the book , and our idea of it was do n't close the book .
+166: [the jury] In the Chambliss case with the jury we had , probably the truth of the matter is they could never have acquitted .
+220: [the jury] We tried the case and , if there is such a thing as a moral victory when your whole defense has been torpedoed as Bob Chambliss insisted on torpedoing his own defense , the jury deliberated one afternoon , was out one night , deliberated several hours , and came back late the following morning .
+316: [the jury] The wall behind the jury was lined with microphones that were hung from the balcony .
+
+"David Vann and his friends"
+David Vann [PERSON]
+531: [David Vann and his friends] David Vann and his friends were proponents of the change of form of government .
+531: [proponents of the change of form of government] David Vann and his friends were proponents of the change of form of government .
+
+"ten years after the Ray case"
+Ray [PERSON]
+ 92: [The Chambliss case] The Chambliss case was different .
+ 93: [That] That was ten years after the Ray case , nine years .
+ 93: [ten years after the Ray case] That was ten years after the Ray case , nine years .
+111: [the Chambliss case] In the Chambliss case I try not to be spooky or eerie , but let me just tell you an experience I had .
+114: [It] It had gone some days better than others in the course of the trial .
+116: [It] It came the moment , and the judge looked down and said , `` Mr. Hanes , your first witness . ''
+131: [the Chambliss case] So that 's sort of how we went about the Chambliss case .
+171: [the Chambliss case] We were trying those cases before there were any cases , in the Chambliss case , the Ray case , the Liuzzo case .
+171: [the Chambliss case , the Ray case , the Liuzzo case] We were trying those cases before there were any cases , in the Chambliss case , the Ray case , the Liuzzo case .
+181: [the Chambliss case] Well , in the Chambliss case the evidence was such that probably the two of them could well have been prosecuted on that evidence .
+328: [ten years] My daddy was president of the Birmingham Board of Education for ten years .
+
+"Richard Arrington"
+Richard Arrington [PERSON]
+539: [Richard Arrington] What about the Civil Rights Institute ? I know David Vann was instrumental in that and also Richard Arrington .
+597: [Richard Arrington] Richard Arrington could make the trains run on time .
+600: [Richard Arrington] Richard Arrington was a very efficient mayor .
+600: [a very efficient mayor] Richard Arrington was a very efficient mayor .
+
+"the Civil Rights Institute"
+Civil Rights Institute [ORGANIZATION]
+539: [that] What about the Civil Rights Institute ? I know David Vann was instrumental in that and also Richard Arrington .
+539: [the Civil Rights Institute] What about the Civil Rights Institute ? I know David Vann was instrumental in that and also Richard Arrington .
+540: [Civil Rights Institute] The Civil Rights Institute , I do n't know what your question is .
+540: [The Civil Rights Institute] The Civil Rights Institute , I do n't know what your question is .
+541: [it] What about it ? Is it what are my thoughts about it and the like ?
+541: [it what are my thoughts about it and the like] What about it ? Is it what are my thoughts about it and the like ?
+544: [It] I think that the Civil Rights Institute is a very good thing because it 's a museum , and what is a museum for ? It 's to preserve history .
+544: [a museum] I think that the Civil Rights Institute is a very good thing because it 's a museum , and what is a museum for ? It 's to preserve history .
+544: [a very good thing] I think that the Civil Rights Institute is a very good thing because it 's a museum , and what is a museum for ? It 's to preserve history .
+544: [it] I think that the Civil Rights Institute is a very good thing because it 's a museum , and what is a museum for ? It 's to preserve history .
+544: [the Civil Rights Institute] I think that the Civil Rights Institute is a very good thing because it 's a museum , and what is a museum for ? It 's to preserve history .
+586: [The Civil Rights Institute] The Civil Rights Institute is part of the passage into history .
+586: [part of the passage into history] The Civil Rights Institute is part of the passage into history .
+587: [Civil Rights Institute] It 's much better to have to go to the Civil Rights Institute and remember marchers than it is to be marchers .
+587: [It] It 's much better to have to go to the Civil Rights Institute and remember marchers than it is to be marchers .
+587: [it] It 's much better to have to go to the Civil Rights Institute and remember marchers than it is to be marchers .
+587: [the Civil Rights Institute] It 's much better to have to go to the Civil Rights Institute and remember marchers than it is to be marchers .
+
+"the Civil Rights Movement history rather than current events"
+Civil Rights Movement [ORGANIZATION]
+545: [the Civil Rights Movement history rather than current events] I believe that we must make the Civil Rights Movement history rather than current events to lay that issue to rest .
+546: [it] I think it 's important that we lay it to rest .
+547: [history rather than current events] Just as the War Between the States has become history rather than current events .
+
+"Jonesboro"
+Jonesboro [LOCATION]
+549: [Jonesboro] The live in Jonesboro , Georgia .
+551: [Jonesboro] My multi-great grand daddy rode off to the Revolutionary War from Jonesboro , Georgia , so we are from the South .
+556: [Jonesboro] It was if he had burned Jonesboro the previous week .
+
+"Jonesboro , Georgia"
+Jonesboro [LOCATION], Georgia [LOCATION]
+549: [Jonesboro , Georgia] The live in Jonesboro , Georgia .
+551: [Georgia] My multi-great grand daddy rode off to the Revolutionary War from Jonesboro , Georgia , so we are from the South .
+551: [Jonesboro , Georgia] My multi-great grand daddy rode off to the Revolutionary War from Jonesboro , Georgia , so we are from the South .
+
+"Bob ! You did n't understand me"
+Bob [PERSON]
+120: [Bob ! You did n't understand me] I said , `` Bob ! You did n't understand me .
+123: [He] He said , `` I 'm not going . ''
+
+"Birmingham for the better or for the worse ? Well , in those senses it 's for the worse"
+Birmingham [LOCATION]
+565: [Birmingham for the better or for the worse ? Well , in those senses it 's for the worse] Is Birmingham for the better or for the worse ? Well , in those senses it 's for the worse .
+566: [it] Is it for the better ? Sure , it 's for the better in many ways .
+
+"Bernard Kincaid"
+Bernard Kincaid [PERSON]
+598: [Bernard Kincaid] As far as I 'm concerned Bernard Kincaid is not a good administrator .
+598: [a good administrator] As far as I 'm concerned Bernard Kincaid is not a good administrator .
+599: [He] He does n't get along well .
+601: [Bernard Kincaid] Bernard Kincaid is not .
+
+"Elizabeth Cobbs , the niece/nephew ."
+Elizabeth Cobbs [PERSON]
+145: [Elizabeth Cobbs] Maybe we can start with Elizabeth Cobbs .
+146: [Elizabeth Cobbs] Elizabeth Cobbs , the niece/nephew .
+146: [Elizabeth Cobbs , the niece/nephew .] Elizabeth Cobbs , the niece/nephew .
+146: [the niece/nephew] Elizabeth Cobbs , the niece/nephew .
+147: [the niece/nephew] Yes , the niece/nephew .
+148: [She] She always claimed that she was the key to the deal .
+148: [she] She always claimed that she was the key to the deal .
+149: [she] The truth of the matter is she did n't prove a thing , I did n't think .
+150: [She] She alone meant absolutely nothing .
+151: [She] She was just a weird , shaky person .
+
+"Detroit"
+Detroit [LOCATION]
+152: [Detroit] The person that convicted Bob Chambliss was the lady from Detroit who claimed to have seen him that morning sitting in the car .
+153: [That] That 's who convicted him .
+
+"The person that convicted Bob Chambliss"
+Bob Chambliss [PERSON]
+152: [The person that convicted Bob Chambliss] The person that convicted Bob Chambliss was the lady from Detroit who claimed to have seen him that morning sitting in the car .
+152: [him] The person that convicted Bob Chambliss was the lady from Detroit who claimed to have seen him that morning sitting in the car .
+153: [him] That 's who convicted him .
+155: [he] In fact , she fit right into our plan of he was just a mean old man .
+
+"the lady from Detroit who claimed to have seen him that morning sitting in the car"
+Detroit [LOCATION]
+152: [the lady from Detroit who claimed to have seen him that morning sitting in the car] The person that convicted Bob Chambliss was the lady from Detroit who claimed to have seen him that morning sitting in the car .
+155: [she] In fact , she fit right into our plan of he was just a mean old man .
+157: [She] She was of no consequence we felt .
+
+"the sense that Chambliss could at least credibly deny the memory of it in retrospect"
+Chambliss [PERSON]
+159: [the sense that Chambliss could at least credibly deny the memory of it in retrospect] It was very , very difficult in the sense that Chambliss could at least credibly deny the memory of it in retrospect .
+610: [the sense] You have done a good interview in the sense that you have raised subjects and have gauged your interviewee as being a person who will wax and opine on almost any subject you can think of .
+
+"The population of Birmingham"
+Birmingham [LOCATION]
+621: [The population of Birmingham] The population of Birmingham was very , very antagonistic toward change .
+622: [the population] In 1963 the population was very , very antagonistic toward the federal government .
+623: [the population of Birmingham] In 1977 the population of Birmingham was ready to capitulate , was ready , `` Please , leave us alone .
+
+"1977 the population of Birmingham was ready to capitulate"
+Birmingham [LOCATION]
+623: [1977 the population of Birmingham was ready to capitulate] In 1977 the population of Birmingham was ready to capitulate , was ready , `` Please , leave us alone .
+630: [1977] But yeah , in 1977 , yes , the people of Birmingham were desirous of laying it to rest .
+630: [it] But yeah , in 1977 , yes , the people of Birmingham were desirous of laying it to rest .
+
+"some huge national cases where people were tried in the media , but those were before CNN and the time now where you have all of the attention to some of the cases that they just peg out"
+CNN [ORGANIZATION]
+169: [some huge national cases where people were tried in the media , but those were before CNN and the time now where you have all of the attention to some of the cases that they just peg out] This day and time of trying people in the media , we had some huge national cases where people were tried in the media , but those were before CNN and the time now where you have all of the attention to some of the cases that they just peg out , like the Lacey Peterson case for instance .
+171: [those cases] We were trying those cases before there were any cases , in the Chambliss case , the Ray case , the Liuzzo case .
+
+"the attorney general of the United States"
+United States [LOCATION]
+172: [the attorney general of the United States] My gracious , the Liuzzo case had the attorney general of the United States down here .
+182: [attorney general] Bill Baxley left the office of attorney general and left public life at that time .
+
+"the United States"
+United States [LOCATION]
+172: [the United States] My gracious , the Liuzzo case had the attorney general of the United States down here .
+173: [the United States] The president of the United States announced the arrest by name .
+174: [That] In the Liuzzo case , Eugene Thomas was standing in a filling station in Bessemer filling his car up with gasoline , and he heard the president of the United States come on the radio , announce his name , and announce that there was an arrest warrant for him That 'll curl your hair .
+174: [the United States] In the Liuzzo case , Eugene Thomas was standing in a filling station in Bessemer filling his car up with gasoline , and he heard the president of the United States come on the radio , announce his name , and announce that there was an arrest warrant for him That 'll curl your hair .
+408: [past thirteen confederate states of segregated colleges to go to integrated Princeton University] My daddy is the one who spent all of his money , sent me past thirteen confederate states of segregated colleges to go to integrated Princeton University .
+547: [the States] Just as the War Between the States has become history rather than current events .
+
+"The president of the United States"
+United States [LOCATION]
+173: [The president of the United States] The president of the United States announced the arrest by name .
+174: [him] In the Liuzzo case , Eugene Thomas was standing in a filling station in Bessemer filling his car up with gasoline , and he heard the president of the United States come on the radio , announce his name , and announce that there was an arrest warrant for him That 'll curl your hair .
+174: [his] In the Liuzzo case , Eugene Thomas was standing in a filling station in Bessemer filling his car up with gasoline , and he heard the president of the United States come on the radio , announce his name , and announce that there was an arrest warrant for him That 'll curl your hair .
+174: [the president of the United States] In the Liuzzo case , Eugene Thomas was standing in a filling station in Bessemer filling his car up with gasoline , and he heard the president of the United States come on the radio , announce his name , and announce that there was an arrest warrant for him That 'll curl your hair .
+
+"Blanton"
+Blanton [PERSON]
+180: [Blanton] What about the most recent cases , the recent Sixteenth Street cases ? That was Blanton and Cherry a couple of years ago .
+184: [Blanton] I 'll say this about Blanton and Cherry .
+187: [Blanton] I went to the Blanton trial and listened to the tapes , the FBI tapes , and I was wondering if you had an opinion about whether or not those should have gone in ?
+
+"Cherry"
+Cherry [PERSON]
+180: [Cherry] What about the most recent cases , the recent Sixteenth Street cases ? That was Blanton and Cherry a couple of years ago .
+184: [Cherry] I 'll say this about Blanton and Cherry .
+
+"the recent Sixteenth Street cases"
+Sixteenth Street [LOCATION]
+180: [That] What about the most recent cases , the recent Sixteenth Street cases ? That was Blanton and Cherry a couple of years ago .
+180: [the most recent cases] What about the most recent cases , the recent Sixteenth Street cases ? That was Blanton and Cherry a couple of years ago .
+180: [the recent Sixteenth Street cases] What about the most recent cases , the recent Sixteenth Street cases ? That was Blanton and Cherry a couple of years ago .
+
+"Blanton and Cherry"
+Blanton [PERSON], Cherry [PERSON]
+180: [Blanton and Cherry] What about the most recent cases , the recent Sixteenth Street cases ? That was Blanton and Cherry a couple of years ago .
+184: [Blanton and Cherry] I 'll say this about Blanton and Cherry .
+
+"this about Blanton and Cherry"
+Blanton [PERSON]
+184: [this about Blanton and Cherry] I 'll say this about Blanton and Cherry .
+185: [Their] Their lawyers were able to carry off a very , very difficult defense , again with dignity and without exacerbating the problems and the nature of the case .
+
+"the FBI tapes"
+FBI [ORGANIZATION]
+187: [the FBI tapes] I went to the Blanton trial and listened to the tapes , the FBI tapes , and I was wondering if you had an opinion about whether or not those should have gone in ?
+187: [the tapes] I went to the Blanton trial and listened to the tapes , the FBI tapes , and I was wondering if you had an opinion about whether or not those should have gone in ?
+
+"my friend Judge Jim Garrett"
+Jim Garrett [PERSON]
+188: [my friend Judge Jim Garrett] I do , but my friend Judge Jim Garrett was on the bench at the same time I was and , frankly , we discussed those at the time , not necessarily because I knew anything about the case but because I was one of the authors of our rules of evidence .
+190: [That] That 's one of the problems with trying a case so long after the fact .
+
+"Jack Kennedy"
+Jack Kennedy [PERSON]
+196: [Kennedy] Who was the Kennedy nephew , Skakel that was tried .
+372: [Jack Kennedy] My dad and Jack Kennedy had a real affinity for each other .
+
+"Skakel"
+Skakel [PERSON]
+196: [Skakel] Who was the Kennedy nephew , Skakel that was tried .
+196: [the Kennedy nephew] Who was the Kennedy nephew , Skakel that was tried .
+197: [his] Is n't that his name .
+
+"Bob Chambliss ' wife"
+Bob Chambliss [PERSON]
+222: [Bob Chambliss ' wife] Tee Chambliss , Bob Chambliss ' wife , was a wonderful , sweet , gentle sole , the antithesis of Bob Chambliss .
+223: [She] She had n't been at the trial , and we needed to tell Tee .
+
+"North Birmingham"
+North Birmingham [LOCATION]
+228: [North Birmingham] So I went to their house in North Birmingham .
+238: [North Birmingham] It was a small little two bedroom house in North Birmingham .
+
+"a small little two bedroom house in North Birmingham"
+North Birmingham [LOCATION]
+233: [it] The front door was open , but the screen was shut , and I could see it was dark inside .
+233: [the screen] The front door was open , but the screen was shut , and I could see it was dark inside .
+234: [the screen] I rapped on the screen .
+235: [it] I could hear this faint little voice , `` Who is it ? '' I said , `` Miss Tee , it 's Art . ''
+237: [the screen] And I opened the screen , and I stepped into their little living room .
+238: [It] It was a small little two bedroom house in North Birmingham .
+238: [a small little two bedroom house in North Birmingham] It was a small little two bedroom house in North Birmingham .
+
+"the way Bill"
+Bill [PERSON]
+254: [the way Bill] Is that about the way Bill tells the story ?
+264: [Bill] Bill would probably have a better idea than I do .
+273: [Bill] Bill had some but probably did n't have all of it .
+315: [Bill] We had no objection to it , and Bill did n't , Bill Baxley did n't and the judge on request , and over no objection .
+
+"Judge Wallace Gibson"
+Wallace Gibson [PERSON]
+292: [Judge Wallace Gibson] What kind of judge did we have ? We had Judge Wallace Gibson .
+293: [Judge Gibson] Judge Gibson was a friend of mine .
+293: [a friend of mine] Judge Gibson was a friend of mine .
+300: [Judge Gibson] Judge Gibson told me one time , I guess it was after that trial but before I became judge .
+301: [him] I went by his office and was visiting with him .
+301: [his] I went by his office and was visiting with him .
+302: [He] He was just sort of musing and being philosophical one afternoon .
+303: [He] He said , `` Art , you may want to do this job one day .
+351: [Wallace] I was in college , but I would carry messages for Governor Wallace or my dad , whatever it was .
+352: [he] I remember going in and Colonel Lingo always looked like he stepped out of a band box .
+353: [He] He would lie up in one of those big double beds there at the St. Francis Hotel , and that would be his command post .
+353: [his] He would lie up in one of those big double beds there at the St. Francis Hotel , and that would be his command post .
+354: [he] As soon as he would get there Colonel Lingo would lie in the bed in his under shorts , and his beautifully pressed uniform as soon as he came in would always be hanging on coat hangers so that it would stay crisp in case he had to go out .
+354: [his] As soon as he would get there Colonel Lingo would lie in the bed in his under shorts , and his beautifully pressed uniform as soon as he came in would always be hanging on coat hangers so that it would stay crisp in case he had to go out .
+355: [He] He would sit there on his telephone and command operations in his under shorts .
+355: [his] He would sit there on his telephone and command operations in his under shorts .
+
+"Spike Lee 's"
+Spike Lee [PERSON]
+320: [Spike Lee 's] You can see that jury box in Spike Lee 's movie , Four Little Girls .
+321: [Spike Lee] I think that it made the movie where I pointed out that jury box to Spike Lee , but behind it there was a wall , and that wall was just matted with microphones from all over the world , news people hanging them down to record the proceedings which was just radical for the day that that would be allowed .
+
+"Spike Lee 's movie"
+Spike Lee [PERSON]
+320: [Spike Lee 's movie] You can see that jury box in Spike Lee 's movie , Four Little Girls .
+321: [the movie] I think that it made the movie where I pointed out that jury box to Spike Lee , but behind it there was a wall , and that wall was just matted with microphones from all over the world , news people hanging them down to record the proceedings which was just radical for the day that that would be allowed .
+
+"Al Lingo"
+Al Lingo [PERSON]
+342: [Al Lingo] I knew Al Lingo when Al Lingo -- I guess you 've run across his name ?
+342: [his] I knew Al Lingo when Al Lingo -- I guess you 've run across his name ?
+345: [Al Lingo] When Al Lingo was here he had his command headquarters during the disorder here in the St. Francis Hotel , hotel in Homewood .
+345: [he] When Al Lingo was here he had his command headquarters during the disorder here in the St. Francis Hotel , hotel in Homewood .
+345: [his] When Al Lingo was here he had his command headquarters during the disorder here in the St. Francis Hotel , hotel in Homewood .
+
+"St. Francis Hotel"
+St. Francis Hotel [LOCATION]
+345: [St. Francis Hotel] When Al Lingo was here he had his command headquarters during the disorder here in the St. Francis Hotel , hotel in Homewood .
+345: [hotel in Homewood] When Al Lingo was here he had his command headquarters during the disorder here in the St. Francis Hotel , hotel in Homewood .
+353: [St. Francis Hotel] He would lie up in one of those big double beds there at the St. Francis Hotel , and that would be his command post .
+
+"the St. Francis Hotel"
+St. Francis Hotel [LOCATION]
+345: [the St. Francis Hotel] When Al Lingo was here he had his command headquarters during the disorder here in the St. Francis Hotel , hotel in Homewood .
+353: [his command post] He would lie up in one of those big double beds there at the St. Francis Hotel , and that would be his command post .
+353: [that] He would lie up in one of those big double beds there at the St. Francis Hotel , and that would be his command post .
+353: [the St. Francis Hotel] He would lie up in one of those big double beds there at the St. Francis Hotel , and that would be his command post .
+
+"the way those things worked even in Birmingham , and certainly throughout the South in those days"
+Birmingham [LOCATION], South [LOCATION]
+348: [some promise with a daddy who would vouch for you] When you were a young man of some promise with a daddy who would vouch for you , and you knew those people , that 's the way those things worked even in Birmingham , and certainly throughout the South in those days .
+348: [that] When you were a young man of some promise with a daddy who would vouch for you , and you knew those people , that 's the way those things worked even in Birmingham , and certainly throughout the South in those days .
+348: [the way those things worked even in Birmingham , and certainly throughout the South in those days] When you were a young man of some promise with a daddy who would vouch for you , and you knew those people , that 's the way those things worked even in Birmingham , and certainly throughout the South in those days .
+351: [it] I was in college , but I would carry messages for Governor Wallace or my dad , whatever it was .
+
+"poor old Bull Connor , poor old"
+Bull Connor [PERSON]
+363: [Bull Connor] Everybody ? What about Bull Connor ?
+364: [Bull Connor] Yeah , Bull Connor .
+365: [old Bull Connor] Poor old Bull Connor .
+366: [Bull Connor] I say poor old Bull Connor , poor old my daddy ! Pop used to just agonize .
+366: [poor old Bull Connor] I say poor old Bull Connor , poor old my daddy ! Pop used to just agonize .
+366: [poor old Bull Connor , poor old] I say poor old Bull Connor , poor old my daddy ! Pop used to just agonize .
+402: [Bull Connor] We need a symbol , and Birmingham has got to be it because Bull Connor is so intractable .
+444: [Bull Connor who was not a person of good will] There were some people like Bull Connor who was not a person of good will .
+528: [Bull Connor] All good young lawyers then were part of the change of form of government and instrumental in it , and had figured out that the only way to get rid of Bull Connor and that kind of approach to policing in Birmingham was to change the form of government and put it in the hands of the council .
+
+"old Bull"
+Bull [ORGANIZATION]
+368: [Bull] Bull just -- oh Bull was probably a hundred years too young .
+368: [Bull just] Bull just -- oh Bull was probably a hundred years too young .
+369: [He] He was just hard headed .
+371: [He] He was very hard headed .
+523: [Bull] That is , in part , why my dad was frustrated because nobody could do anything with old Bull , and that , in large measure , is what lead to the change in the form of city government .
+523: [old Bull] That is , in part , why my dad was frustrated because nobody could do anything with old Bull , and that , in large measure , is what lead to the change in the form of city government .
+
+"My dad and Jack Kennedy"
+Jack Kennedy [PERSON]
+372: [My dad and Jack Kennedy] My dad and Jack Kennedy had a real affinity for each other .
+373: [They] They were both PT boat skippers .
+374: [They] They were within six months of the same age , and they had almost identically the same kind of charisma and style .
+374: [they] They were within six months of the same age , and they had almost identically the same kind of charisma and style .
+375: [They] They really did , although their politics were divergent , nonetheless they had a personal affinity .
+375: [their] They really did , although their politics were divergent , nonetheless they had a personal affinity .
+375: [they] They really did , although their politics were divergent , nonetheless they had a personal affinity .
+
+"Albert Boutwell"
+Albert Boutwell [PERSON]
+379: [Albert Boutwell] Albert Boutwell was mayor when the church was bombed .
+379: [mayor when the church was bombed] Albert Boutwell was mayor when the church was bombed .
+516: [Albert Boutwell] Bear in mind , we changed the form of city government from the commission form to the mayor/council form in what , '62 or ' 63 ? That 's where Albert Boutwell came from , and that resulted in a radical , radical change in the way government was operated in the whole construction of the city of Birmingham .
+517: [Albert Boutwell] So to some extent , all of those developments then George Seibels , and Albert Boutwell , and the first council , they were having to restructure all the city government .
+
+"Atlanta Atlanta"
+Atlanta Atlanta [LOCATION]
+383: [Atlanta] Birmingham and Atlanta were about the same size , and his hope , his whole goal -- he was in great competition with the mayor of Atlanta .
+384: [Atlanta] I think Bill Hartsfield was mayor of Atlanta then .
+385: [Atlanta Atlanta] They were friends and competing very strongly for the hubs , the things that made Atlanta Atlanta .
+496: [Atlanta] My dad thought they should have done it the other way around because the airlines could avoid it by gassing up in Atlanta or somewhere else .
+
+"Bill Hartsfield"
+Bill Hartsfield [PERSON]
+384: [Bill Hartsfield] I think Bill Hartsfield was mayor of Atlanta then .
+384: [mayor of Atlanta] I think Bill Hartsfield was mayor of Atlanta then .
+
+"the things that made Atlanta Atlanta"
+Atlanta Atlanta [LOCATION]
+385: [the hubs] They were friends and competing very strongly for the hubs , the things that made Atlanta Atlanta .
+385: [the things that made Atlanta Atlanta] They were friends and competing very strongly for the hubs , the things that made Atlanta Atlanta .
+
+"Atlanta for the airlines"
+Atlanta [LOCATION]
+387: [Atlanta for the airlines] Geographically it makes more sense to go to Birmingham than to Atlanta for the airlines , and this civil rights movement was just killing Birmingham , just killing us .
+496: [Atlanta or somewhere else] My dad thought they should have done it the other way around because the airlines could avoid it by gassing up in Atlanta or somewhere else .
+
+"Civil Rights Movement"
+Civil Rights Movement [ORGANIZATION]
+387: [this civil rights movement] Geographically it makes more sense to go to Birmingham than to Atlanta for the airlines , and this civil rights movement was just killing Birmingham , just killing us .
+545: [Civil Rights Movement] I believe that we must make the Civil Rights Movement history rather than current events to lay that issue to rest .
+
+"the people of Birmingham"
+Birmingham [LOCATION]
+391: [the people of Birmingham] His reasoning was that knowing the people of Birmingham that they would literally die , that there would be tremendous unrest if you forced it on the children , boom , from scratch .
+391: [they] His reasoning was that knowing the people of Birmingham that they would literally die , that there would be tremendous unrest if you forced it on the children , boom , from scratch .
+630: [the people of Birmingham] But yeah , in 1977 , yes , the people of Birmingham were desirous of laying it to rest .
+631: [the people of Birmingham] In 1963 the people of Birmingham were desirous of fighting to the last man .
+
+"His brother Bobby , and Martin Luther King , and he"
+Bobby [PERSON], Martin Luther King [PERSON]
+397: [His brother Bobby , and Martin Luther King , and he] His brother Bobby , and Martin Luther King , and he , they needed an example .
+397: [they] His brother Bobby , and Martin Luther King , and he , they needed an example .
+398: [They] They had the Civil Rights Act .
+400: [they] At any rate , they had legislation they were interested in .
+
+"His brother Bobby"
+Bobby [PERSON]
+397: [His brother Bobby] His brother Bobby , and Martin Luther King , and he , they needed an example .
+397: [he] His brother Bobby , and Martin Luther King , and he , they needed an example .
+
+"integrated Princeton University"
+Princeton University [ORGANIZATION]
+408: [integrated Princeton University] My daddy is the one who spent all of his money , sent me past thirteen confederate states of segregated colleges to go to integrated Princeton University .
+477: [Princeton University] The moment I graduated from Princeton University , do you know what I was doing when they called my name on Cannon Green ?
+
+"Mr. Smyer who , in those days , was on the wrong side of the issue"
+Smyer [PERSON]
+420: [Mr. Smyer who , in those days , was on the wrong side of the issue] She pillories , as I understand it , Mr. Smyer who , in those days , was on the wrong side of the issue .
+432: [Mr. Smyer] Mr. Smyer , Operation New Birmingham was for immediate integration .
+432: [Mr. Smyer , Operation New Birmingham] Mr. Smyer , Operation New Birmingham was for immediate integration .
+432: [Smyer] Mr. Smyer , Operation New Birmingham was for immediate integration .
+
+"Fred Shuttlesworth and the like"
+Fred Shuttlesworth [PERSON]
+423: [Fred Shuttlesworth and the like] She talked to Fred Shuttlesworth and the like .
+424: [that] See , that 's what history does .
+425: [That] That 's what history does .
+
+"Iraq"
+Iraq [LOCATION]
+436: [Iraq] The idea in retrospect that you could -- look at Iraq right now .
+437: [Iraq] Look at Iraq right now .
