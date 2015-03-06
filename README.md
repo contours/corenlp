@@ -99,5 +99,5 @@ Output files will appear in the `data/out` directory. To see a
 human-readable view of the coreference resolution:
 
 ```
-./parse-output.py data/out/U-0012.xml
+./print-coreferences.py data/out/U-0012.xml
 ```
